@@ -1,1 +1,49 @@
+Holy crap.. we are at version 0.50!
 
+◻ ADDED
+▫ **Hunting:** Added Hunting. Cooked meats properly working / Needs work.
+▫ **Pawnshop:** New Pawnshop / Needs work.
+▫ **mt-scrunchie:** Scrunchie for hair! - Testing..
+▫ **Rock Paper Scissors:** Added rock paper scissors game. Use **/rps**
+▫ **Weapons:** Added 4 new handguns to the shops.
+▫ **Gym:** Added new gym system. **Press "O" key** for your statistics. Eventually certain gyms can be owned (for our athletic guru's out there! :blob_flex: :blob_cool~1: )
+▫ **Scenes:** New scenes resource, use radial menu to activate it.
+▫ **EUP:** Added new female SOA vests to body armor section. Still need to remove the old vests. Added Male and Female Mayans vests to body armor section. 
+
+⦿ Changed
+•  **okokBilling:** Updated
+•  **okokBanking:** Updated
+•  **cdn-fuel:** Updated
+•  **cd-dispatch:** Updated
+•  **vms_driveschoolv2:** Updated
+•  **Car Radio:** Updated and with custom stations.
+•  **rpemotes:** Updated
+•  **Trucking:** Now you require a CDL to do the jobs.
+•  **Drunk:** Modified level numbers. Required more for "breath smells like alcohol" You have to be closer to someone to know that information.
+•  **Seatbelt:** Changed key to **U**
+•  **ox_inventory:** Updated
+•  **ox_lib:** Updated
+•  **Car Radio:** Made car radio's stackable
+•  **EUP:** Moved all SOA vests to Body armor
+•  **HUD:** Updated to open source of HUD
+
+► Fixes
+▸ **Pearls Job:** Fixed mackerelfood
+▸ **cdn-fuel:** Fixed jerry cans
+▸ **okokGarage:** Fixed Bennys Society garage (thanks to RobertVCAdmin)
+▸ **vms_gym:** Fixed gym, now saving stats!
+
+🗙 Removed
+🗴 **LAFITNESS MLO:** Removed
+🗴 **qb-scenes:** Removed
+🗴 **Bennys:** Removed lifts for upcoming mechanic/tuner implementation.
+
+**DISCORD**
+• **NEW BOT:** We have switched bots, cheaper as well! Added #💻-streamer-hub channel. Will automatically post when you go live (if your channel is set) Will also show you @STREAMING (as a role) when you are live.
+• **CFX STATUS:** Added cfx status to #✅-server-status - Now we can keep up with whether fivem is having issues.
+• **Ticket Panel:** All tickets are now bundled. Gang Ticket has been added.
+• **New Emotes:** Accepted/Denied emojis :done: :denied: 
+• **New channels for server help:** #mp3-radiostations , #backpacks-eup
+
+**WEBSITE**
+•  All kinds of new stuff. Check it out - https://www.veracityroleplay.com
