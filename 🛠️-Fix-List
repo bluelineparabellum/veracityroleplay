@@ -1,0 +1,22 @@
+Known issues and fixes suggested by community members
+
+🟢 Fixed and ready to be implemented
+✔️ Wasabi Ambulance: Fixed being able to e/ emote and use emote menu while downed
+
+🟡 Needs Additonal Testing
+⚠️ HandsUp: Disabling Handsup while downed.
+
+🔴 Needs Fixin
+🧰 Pearls Job: Scallops currently not working as a food item/prop
+🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. Dev has been notified
+🧰 Gym: Working on registering skills for swimming and lung capacity
+🧰 Housing: Current housing update is not working correctly. // Have informed DEV
+🧰 Halloween Map/Script: Current map issues reported by the community around pillbox. // Have informed DEV
+🧰 Boombox: Can not reach the boombox, suggested third target option. // Have informed DEV
+🧰 okokBilling: Error involving sv_utils with speed radar billing // Have informed DEV
+
+🔴 Long Term Fixing
+🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
+🛠️ Player Inventories: decide on a final on person weight inventory
+🛠️ Weapons: Complete current list of weapons
+🛠️ Police Charges: Integrate list of charges to MDT
