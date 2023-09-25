@@ -1,7 +1,7 @@
 # veracityroleplay
 VeraCity Roleplay Updates
 
-🩹 VeraCity Current Version
+🌆 VeraCity Current Version
 - Latest version of VeraCity and its updates.
 
 🩹 VeraCity Upcoming Patch
