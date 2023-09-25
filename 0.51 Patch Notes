@@ -1,0 +1,26 @@
+Version 0.51
+
+🟣 ADDED
+• Halloween: It's halloween time! Weather and other added visual festivities!
+• Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.  
+
+🟡 Changed
+•  rcore_drunk: Updated
+•  Housing: Updated
+•  Prescriptions: Updated
+•  Wasabi Ambulance: Updated
+•  Pawnshop: Updated
+•  1of1Vehicles: Updated garage images
+•  fivem-scenes: Updated
+
+🟢 Fixes
+✔️ Boombox: Now the boombox is removed from inventory when placed on the ground, vice versa when picking up
+
+🔴 Removed
+❌ pnt_cruiseControl: Removed
+
+🔵 Discordia/Website
+•  City Updates: Improved way of showing what's being worked on in the Dev server. This will also provide the current version updates to the city.
+•  Role Select: Opt in to receiving notifications on various things through Discordia. Currently can opt in for Github and Twitch notifications.
+•  Known Issues Channel: Removed known issues channel due to using GitHub
+•  Community Input Forum: Added community input forum for city input
