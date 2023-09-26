@@ -8,6 +8,7 @@ Known issues and fixes suggested by community members
 ⚠️ HandsUp: Disabling Handsup while downed.
 
 🔴 Needs Fixin
+🧰 Hunting: If you fail skill check it won't let you skin the animal
 🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. Dev has been notified
 🧰 Gym: Working on registering skills for swimming and lung capacity
 🧰 Housing: Current housing update is not working correctly. // Have informed DEV
@@ -16,7 +17,6 @@ Known issues and fixes suggested by community members
 🧰 okokBilling: Error involving sv_utils with speed radar billing // Have informed DEV
 
 🔴 Long Term Fixing
-🛠️ Hunting: If you fail skill check it won't let you skin the animal
 🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
 🛠️ Player Inventories: Decide on a final on person weight inventory
 🛠️ Housing: Set inventory limits for storages bought in shop
