@@ -2,7 +2,8 @@ Version 0.51
 
 🟣 ADDED
 • Halloween: It's halloween time! Weather and other added visual festivities!
-• Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.  
+• Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.
+• Outfit bag: Added bag to store outfits. Bag was added to backpack shop
 
 🟡 Changed
 •  rcore_drunk: Updated
