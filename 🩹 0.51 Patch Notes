@@ -25,6 +25,7 @@ Version 0.51
 ✔️ Boombox: Now the boombox is removed from inventory when placed on the ground, vice versa when picking up
 ✔️ Wasabi Ambulance: Fixed being able to e/ emote and use emote menu while downed
 ✔️ Pearls Job: Scallops food/prop now working
+✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
 
 🔴 Removed
 ❌ pnt_cruiseControl: Removed
