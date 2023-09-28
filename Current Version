@@ -1,39 +1,51 @@
-Holy crap.. we are at version 0.50!
+Version 0.51
 
-◻ ADDED
-▫ **Hunting:** Added Hunting. Cooked meats properly working / Needs work.
-▫ **Pawnshop:** New Pawnshop / Needs work.
-▫ **mt-scrunchie:** Scrunchie for hair! - Testing..
-▫ **Rock Paper Scissors:** Added rock paper scissors game. Use **/rps**
-▫ **Weapons:** Added 4 new handguns to the shops.
-▫ **Gym:** Added new gym system. **Press "O" key** for your statistics. Eventually certain gyms can be owned (for our athletic guru's out there! :blob_flex: :blob_cool~1: )
-▫ **Scenes:** New scenes resource, use radial menu to activate it.
-▫ **EUP:** Added new female SOA vests to body armor section. Still need to remove the old vests. Added Male and Female Mayans vests to body armor section. 
+🟣 ADDED
+• Halloween: It's halloween time! Weather and other added visual festivities!
+• Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.
+• Outfit bag: Added bag to store outfits. Bag was added to backpack shop
+• Winching: Added winching system to compliment off-roading. Only certain vehicles, mostly offroad will be able to use this function!
 
-⦿ Changed
-•  **okokBilling:** Updated
-•  **okokBanking:** Updated
-•  **cdn-fuel:** Updated
-•  **cd-dispatch:** Updated
-•  **vms_driveschoolv2:** Updated
-•  **Car Radio:** Updated and with custom stations.
-•  **rpemotes:** Updated
-•  **Trucking:** Now you require a CDL to do the jobs.
-•  **Drunk:** Modified level numbers. Required more for "breath smells like alcohol" You have to be closer to someone to know that information.
-•  **Seatbelt:** Changed key to **U**
-•  **ox_inventory:** Updated
-•  **ox_lib:** Updated
-•  **Car Radio:** Made car radio's stackable
-•  **EUP:** Moved all SOA vests to Body armor
-•  **HUD:** Updated to open source of HUD
+🟡 Changed
+•  rcore_drunk: Updated
+•  Housing: Updated
+•  Prescriptions: Updated
+•  Wasabi Ambulance: Updated
+•  Pawnshop: Updated
+•  1of1Vehicles: Updated garage images
+•  fivem-scenes: Updated
+•  Halloween: Changed sfx chance to 2% from 15%
+•  Towing: Updated towing script
+•  Rebel Towing: Created a "mech" shop for the time being. Rebel Towing now has a shop accessible to them for tools needed for towing jobs.
+•  Hunting: Updated and buying firearm requires weapon license. Serial #'s added to hunting rifle
+•  Butcher Job: Updated
+•  Smash N Grab: Updated
+•  ox-lib: Updated
+•  Dumpster Diving: Changed minigame to ox-lib
+•  Vehicles: Seminole, Seminole Frontier, Patriot, Patriot Military, Bravado Gresley, Landstalker XL, and Range Rover Evoque modified to Off Road
+•  Smart Fires: Updated
+•  Fire Supply Line: Updated
+•  Fire Tools: Updated
+•  Throw Bag: Updated
+•  Water Monitor: Updated
+•  Smart Taser: Updated
 
-► Fixes
-▸ **Pearls Job:** Fixed mackerelfood
-▸ **cdn-fuel:** Fixed jerry cans
-▸ **okokGarage:** Fixed Bennys Society garage (thanks to RobertVCAdmin)
-▸ **vms_gym:** Fixed gym, now saving stats!
+🟢 Fixes
+✔️ Boombox: Now the boombox is removed from inventory when placed on the ground, vice versa when picking up
+✔️ Wasabi Ambulance: Fixed being able to e/ emote and use emote menu while downed
+✔️ Pearls Job: Scallops food/prop now working
+✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
 
-🗙 Removed
-🗴 **LAFITNESS MLO:** Removed
-🗴 **qb-scenes:** Removed
-🗴 **Bennys:** Removed lifts for upcoming mechanic/tuner implementation.
+🔴 Removed
+❌ pnt_cruiseControl: Removed
+❌ Outfit Changing via vehicle: Removed
+❌ BOI RESOURCES: Removed all of em
+❌ OT STUDIOS: Removed all of em
+❌ s1n_npcplacer: Removed
+❌ qb-smallresources seatbelt: Removed
+
+🔵 Discordia/Website
+•  City Updates: Improved way of showing what's being worked on in the Dev server. This will also provide the current version updates to the city.
+•  Role Select: Opt in to receiving notifications on various things through Discordia. Currently can opt in for Github and Twitch notifications.
+•  Known Issues Channel: Removed known issues channel due to using GitHub
+•  Community Input Forum: Added community input forum for city input
