@@ -17,7 +17,7 @@ Version 0.51
 •  Halloween: Changed sfx chance to 2% from 15%
 •  Towing: Updated towing script
 •  Rebel Towing: Created a "mech" shop for the time being. Rebel Towing now has a shop accessible to them for tools needed for towing jobs.
-•  Hunting: Updated
+•  Hunting: Updated and buying firearm requires weapon license. Serial #'s added to hunting rifle
 •  Butcher Job: Updated
 •  Smash N Grab: Updated
 •  ox-lib: Updated
