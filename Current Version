@@ -1,7 +1,7 @@
 Version 0.51
 
 🟣 ADDED
-• Halloween: It's halloween time! Weather and other added visual festivities!
+• Halloween: It's Halloween time! Weather and other added visual festivities!
 • Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.
 • Outfit bag: Added bag to store outfits. Bag was added to backpack shop
 • Winching: Added winching system to compliment off-roading. Only certain vehicles, mostly offroad will be able to use this function!
@@ -35,6 +35,8 @@ Version 0.51
 ✔️ Wasabi Ambulance: Fixed being able to e/ emote and use emote menu while downed
 ✔️ Pearls Job: Scallops food/prop now working
 ✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
+✔️ Hunting: Failing skill check is now fixed.
+✔️ HandsUp: Now disabled while downed.
 
 🔴 Removed
 ❌ pnt_cruiseControl: Removed

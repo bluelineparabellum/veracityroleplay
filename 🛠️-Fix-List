@@ -1,13 +1,6 @@
 Known issues and fixes suggested by community members
 
 🟢 Fixed and ready to be implemented
-✔️ Wasabi Ambulance: Fixed being able to e/ emote and use emote menu while downed
-✔️ Pearls Job: Scallops food/prop now working
-✔️ Housing: Back up and running
-✔️ okokBilling: Fixed error involing sv_utils
-✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
-✔️ Hunting: Failing skill check is now fixed.
-✔️ HandsUp: Now disabled while downed.
 
 🟡 Needs Additonal Testing
 
