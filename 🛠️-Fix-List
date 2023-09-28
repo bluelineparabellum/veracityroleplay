@@ -7,13 +7,13 @@ Known issues and fixes suggested by community members
 ✔️ okokBilling: Fixed error involing sv_utils
 ✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
 ✔️ Hunting: Failing skill check is now fixed.
+✔️ HandsUp: Now disabled while downed.
 
 🟡 Needs Additonal Testing
-⚠️ HandsUp: Disabling Handsup while downed.
 
 🔴 Needs Fixin
-🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. Dev has been notified
-🧰 Gym: Working on registering skills for swimming and lung capacity
+🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. // Have informed DEV
+🧰 Gym: Working on registering skills for swimming and lung capacity // Have informed DEV
 🧰 Halloween Map/Script: Current map issues reported by the community around pillbox. // Have informed DEV
 🧰 Boombox: Can not reach the boombox, suggested third target option. // Have informed DEV
 
@@ -21,7 +21,7 @@ Known issues and fixes suggested by community members
 🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
 🛠️ Player Inventories: Decide on a final on person weight inventory
 🛠️ Housing: Set inventory limits for storages bought in shop
-🛠️ Housing: Add more than just 1 police job ``` policeName = 'police', -- Police job name ```
+🛠️ Housing: Add more than just 1 police job ``` policeName = 'police', -- Police job name ``` // Have informed DEV
 🛠️ Weapons: Complete current list of weapons
 🛠️ Police Charges: Integrate list of charges to MDT
 🛠️ Dumpsters: More items to find in dumpsters when you search them - Idea from ryanfrazier
