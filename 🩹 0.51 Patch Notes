@@ -4,7 +4,7 @@ Version 0.51
 • Halloween: It's halloween time! Weather and other added visual festivities!
 • Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.
 • Outfit bag: Added bag to store outfits. Bag was added to backpack shop
-• Winching: Added winching system to compliment off-roading
+• Winching: Added winching system to compliment off-roading. Only certain vehicles, mostly offroad will be able to use this function!
 
 🟡 Changed
 •  rcore_drunk: Updated
@@ -22,6 +22,7 @@ Version 0.51
 •  Smash N Grab: Updated
 •  ox-lib: Updated
 •  Dumpster Diving: Changed minigame to ox-lib
+•  Vehicles: Seminole, Seminole Frontier, Patriot, Patriot Military, Bravado Gresley, Landstalker XL, and Range Rover Evoque modified to Off Road
 
 🟢 Fixes
 ✔️ Boombox: Now the boombox is removed from inventory when placed on the ground, vice versa when picking up
@@ -35,6 +36,7 @@ Version 0.51
 ❌ BOI RESOURCES: Removed all of em
 ❌ OT STUDIOS: Removed all of em
 ❌ s1n_npcplacer: Removed
+❌ qb-smallresources seatbelt: Removed
 
 🔵 Discordia/Website
 •  City Updates: Improved way of showing what's being worked on in the Dev server. This will also provide the current version updates to the city.
