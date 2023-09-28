@@ -6,10 +6,10 @@ Known issues and fixes suggested by community members
 ✔️ Housing: Back up and running
 ✔️ okokBilling: Fixed error involing sv_utils
 ✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
+✔️ Hunting: Failing skill check is now fixed.
 
 🟡 Needs Additonal Testing
 ⚠️ HandsUp: Disabling Handsup while downed.
-⚠️ Hunting: If you fail skill check it won't let you skin the animal. Just updated so needs testing. // Have informed DEV
 
 🔴 Needs Fixin
 🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. Dev has been notified
