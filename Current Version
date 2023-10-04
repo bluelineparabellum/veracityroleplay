@@ -1,53 +1,21 @@
-Version 0.51
+Version 0.52
 
 🟣 ADDED
-• Halloween: It's Halloween time! Weather and other added visual festivities!
-• Realistic Off-Road physics: Cars will sink into mud, sand, dirt, or any soft materials in general; making it much more difficult to traverse difficult terrains with vehicles not meant for that. Each material has its own parameters such as: depth, softness and traction.
-• Outfit bag: Added bag to store outfits. Bag was added to backpack shop
-• Winching: Added winching system to compliment off-roading. Only certain vehicles, mostly offroad will be able to use this function!
+•  Skills: Swimming and lung capacity. Alters swimming speed and how long you can withstand being underwater.
+•  Vanilla Unicorn: NEW REVAMP OF VANILLA UNICORN!
 
 🟡 Changed
-•  rcore_drunk: Updated
-•  Housing: Updated
-•  Prescriptions: Updated
-•  Wasabi Ambulance: Updated
-•  Pawnshop: Updated
-•  1of1Vehicles: Updated garage images
-•  fivem-scenes: Updated
-•  Halloween: Changed sfx chance to 2% from 15%
-•  Towing: Updated towing script
-•  Rebel Towing: Created a "mech" shop for the time being. Rebel Towing now has a shop accessible to them for tools needed for towing jobs.
-•  Hunting: Updated and buying firearm requires weapon license. Serial #'s added to hunting rifle
-•  Butcher Job: Updated
-•  Smash N Grab: Updated
-•  ox-lib: Updated
-•  Dumpster Diving: Changed minigame to ox-lib
-•  Vehicles: Seminole, Seminole Frontier, Patriot, Patriot Military, Bravado Gresley, Landstalker XL, and Range Rover Evoque modified to Off Road
-•  Smart Fires: Updated
-•  Fire Supply Line: Updated
-•  Fire Tools: Updated
-•  Throw Bag: Updated
-•  Water Monitor: Updated
-•  Smart Taser: Updated
+•  Vanilla Unicorn Job: Updated
+•  Offroading: Updated
+•  Winching: Updated
+•  Skills: Changed minimum leveling speed to 45mph. You must be going speeds over 90mph for vehicle mishaps due to driving skill.
+•  Vehicle Unbranding: (Motorcycles) Dyne | (Vehicles) Evoque
+•  LB-Phone: Updated
 
 🟢 Fixes
-✔️ Boombox: Now the boombox is removed from inventory when placed on the ground, vice versa when picking up
-✔️ Wasabi Ambulance: Fixed being able to e/ emote and use emote menu while downed
-✔️ Pearls Job: Scallops food/prop now working
-✔️ 17Mov Jobs: Corrected fxmanifest for vehicles to be properly deleted
-✔️ Hunting: Failing skill check is now fixed.
-✔️ HandsUp: Now disabled while downed.
-
-🔴 Removed
-❌ pnt_cruiseControl: Removed
-❌ Outfit Changing via vehicle: Removed
-❌ BOI RESOURCES: Removed all of em
-❌ OT STUDIOS: Removed all of em
-❌ s1n_npcplacer: Removed
-❌ qb-smallresources seatbelt: Removed
-
-🔵 Discordia/Website
-•  City Updates: Improved way of showing what's being worked on in the Dev server. This will also provide the current version updates to the city.
-•  Role Select: Opt in to receiving notifications on various things through Discordia. Currently can opt in for Github and Twitch notifications.
-•  Known Issues Channel: Removed known issues channel due to using GitHub
-•  Community Input Forum: Added community input forum for city input
+✔️ Gym: Swimming and lung capacity in operation!
+✔️ Vanilla Unicorn: Pour Coffee is now working correctly!
+✔️ Hunting: Scope working properly!
+✔️ Recycle: Inventory bug after selling materials fixed!
+✔️ qb-menu: Converted to OX
+✔️ Boss Stashes: Boss Stashes are now working! If you still currently can't get into yours. Please create a support ticket!

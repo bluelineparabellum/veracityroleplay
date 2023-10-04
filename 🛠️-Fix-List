@@ -1,17 +1,10 @@
 Known issues and fixes suggested by community members
 
 🟢 Fixed and ready to be implemented
-✔️ Gym: Swimming and lung capacity in operation!
-✔️ Vanilla Unicorn: Pour Coffee is now working correctly!
-✔️ Hunting: Scope working properly!
-✔️ Recycle: Inventory bug after selling materials fixed!
-✔️ qb-menu: Converted to OX
-✔️ Boss Stashes: Boss Stashes are now working! If you still currently can't get into yours. Please create a support ticket!
 
 🟡 Needs Additonal Testing
 ⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
 ⚠️ Candy for Halloween Event: Need to check all added foods for Upcoming Halloween Event
-⚠️ Boss Stashes: Need to check stashes to see if working within menu
 
 🔴 Needs Fixin
 🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. // Have informed DEV

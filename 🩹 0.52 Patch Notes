@@ -2,20 +2,23 @@ Version 0.52
 
 🟣 ADDED
 •  Skills: Swimming and lung capacity. Alters swimming speed and how long you can withstand being underwater.
+•  Vanilla Unicorn: NEW REVAMP OF VANILLA UNICORN!
 
 🟡 Changed
-•  Vanilla Unicorn: NEW REVAMP OF VANILLA UNICORN!
 •  Vanilla Unicorn Job: Updated
 •  Offroading: Updated
 •  Winching: Updated
 •  Skills: Changed minimum leveling speed to 45mph. You must be going speeds over 90mph for vehicle mishaps due to driving skill.
 •  Vehicle Unbranding: (Motorcycles) Dyne | (Vehicles) Evoque
+•  LB-Phone: Updated
 
 🟢 Fixes
 ✔️ Gym: Swimming and lung capacity in operation!
 ✔️ Vanilla Unicorn: Pour Coffee is now working correctly!
 ✔️ Hunting: Scope working properly!
 ✔️ Recycle: Inventory bug after selling materials fixed!
+✔️ qb-menu: Converted to OX
+✔️ Boss Stashes: Boss Stashes are now working! If you still currently can't get into yours. Please create a support ticket!
 
 🔴 Removed
 ❌ --:
