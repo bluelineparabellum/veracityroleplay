@@ -3,6 +3,7 @@ Version 0.53
 🟣 ADDED
 •  Trash Bins: Currently added trash bins for BCSO & Paxtons (these delete every restart) - Will continue to add more.
 •  BCSO Sandy Shores: NEW AND REVAMPED Sheriffs Office!
+•  Payphones: Payphones are now accessible just in case you don't have your phone!
 
 🟡 Changed
 •  oxmysql: Updated
@@ -13,6 +14,8 @@ Version 0.53
 •  Wasabi Ambulance: Updated
 •  KQ Wheel Damage: Updated
 •  Rock-Paper-Scissors: Updated / Still testing
+•  Wasabi-Halloween: Updated
+•  vms gym and hud: Updated
 
 🟢 Fixes
 ✔️ Management Menus: Fixed boss menus for businesses.
