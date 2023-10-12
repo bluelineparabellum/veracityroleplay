@@ -2,6 +2,7 @@ Known issues and fixes suggested by community members
 
 🟢 Fixed and ready to be implemented
 ✔️ Boombox: Easier to access boombox.
+✔️ LB-Phone: Fix twitter likes not working
 
 🟡 Needs Additonal Testing
 ⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
@@ -9,7 +10,6 @@ Known issues and fixes suggested by community members
 ⚠️ Vanilla Unicorn: Switched to jims job related pole script. Need to check if poles are synced with all clients now
 
 🔴 Needs Fixin
-🧰 LB-Phone: Fix twitter likes not working
 🧰 Item Images: Pisswasser Pale Ale
 🧰 Hotwiring: Fix hotwiring with ox-lib minigame
 🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. // Have informed DEV
