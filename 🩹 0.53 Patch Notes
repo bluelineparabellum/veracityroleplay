@@ -22,9 +22,10 @@ Version 0.53
 🟢 Fixes
 ✔️ Management Menus: Fixed boss menus for businesses.
 ✔️ Mechanic: qb-managment now tied in with mechanic jobs. Better fix to multijob integration with mechanic jobs.
+✔️ LB-Phone: Ringtones are now working!
 
 🔴 Removed
 ❌ --:
 
 🔵 Discordia/Website
-•  --:
+•  Format and Whitelist Form: Formatted discord categories and added whitelist form to tickets
