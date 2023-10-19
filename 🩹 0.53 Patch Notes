@@ -31,12 +31,18 @@ Version 0.53
 •  RCORE_CAM: Updated
 •  Allow List (whitelist): Updated
 •  Multicharacter: Updated
+•  JG Dealerships: Updated
 
 🟢 Fixes
 ✔️ Management Menus: Fixed boss menus for businesses.
 ✔️ Mechanic: qb-managment now tied in with mechanic jobs. Better fix to multijob integration with mechanic jobs.
 ✔️ LB-Phone: Ringtones are now working!
 ✔️ Annoying Josh Banker: He is finally gone
+✔️ Boombox: Easier to access boombox.
+✔️ LB-Phone: Fix twitter likes not working
+✔️ Item Images: Pisswasser Drink images fixed
+✔️ Vanilla Unicorn: Fixed the best we could on pole script.
+✔️ Halloween Map/Script: Fixed map issues
 
 🔴 Removed
 ❌ --:
