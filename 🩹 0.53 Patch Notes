@@ -9,6 +9,7 @@ Version 0.53
 •  ox_inventory_addons: First iteration of carrying items and items on back.
 
 🟡 Changed
+•  ox_inventory: Added code to not overfill inventory. Changed players weights from 30,000 to 50,000 grams!
 •  oxmysql: Updated
 •  BoomBox: Updated
 •  Gym: Updated
@@ -30,7 +31,6 @@ Version 0.53
 •  RCORE_CAM: Updated
 •  Allow List (whitelist): Updated
 •  Multicharacter: Updated
-•  ox_inventory: Added code to not overfill inventory
 
 🟢 Fixes
 ✔️ Management Menus: Fixed boss menus for businesses.
