@@ -4,19 +4,18 @@ Known issues and fixes suggested by community members
 ✔️ Boombox: Easier to access boombox.
 ✔️ LB-Phone: Fix twitter likes not working
 ✔️ Item Images: Pisswasser Drink images fixed
+✔️ Vanilla Unicorn: Fixed the best we could on pole script.
+✔️ Halloween Map/Script: Fixed map issues
 
 🟡 Needs Additonal Testing
 ⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
-⚠️ Candy for Halloween Event: Need to check all added foods for Upcoming Halloween Event
-⚠️ Vanilla Unicorn: Switched to jims job related pole script. Need to check if poles are synced with all clients now
+⚠️ Candy for Halloween Event: Need to perfect prop handling of candy
+⚠️ RD-Citations: Citations not ox_inventory ready. // TESTING
 
 🔴 Needs Fixin
-🧰 Item Images: Pisswasser Pale Ale
 🧰 GN Sheriff Map: Find conflicting issue for pedestrian parking gate.
 🧰 Hotwiring: Fix hotwiring with ox-lib minigame
 🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. // Have informed DEV
-🧰 Halloween Map/Script: Current map issues reported by the community around pillbox. // Have informed DEV
-🧰 RD-Citations: Citations not ox_inventory ready. // Have informed DEV
 
 🔴 Long Term Fixing
 🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
