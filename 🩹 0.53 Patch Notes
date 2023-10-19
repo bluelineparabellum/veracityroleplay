@@ -22,6 +22,15 @@ Version 0.53
 •  Rebel Towing: Rollback is able to handle offroad a bit better. Storage added for employees
 •  r-14 evidence: Updated and modified for Rebel Towing to store photos
 •  Vehicles Debadged: Completed 1 of 1 vehicles
+•  Dirk Crafting: Updated
+•  RTX Carry: Updated
+•  okokChatV2: Updated
+•  CD_VehicleControl: Updated
+•  TAD_Chopshop: Updated
+•  RCORE_CAM: Updated
+•  Allow List (whitelist): Updated
+•  Multicharacter: Updated
+•  ox_inventory: Added code to not overfill inventory
 
 🟢 Fixes
 ✔️ Management Menus: Fixed boss menus for businesses.
