@@ -2,9 +2,11 @@ Version 0.54
 
 🟣 ADDED
 •  ox_inventory_addons: Applied 95% of weapons to back carrying.
+•  Wipe Event: Script is ready for wipe event. Working on getting there currently.
+•  Weapon Recoil: Added current weapon list. Still need to fine tune later on.
 
 🟡 Changed
-•  --:
+•  Vehicles: Debadged all current vehicles (Towing still needed)
 
 🟢 Fixes
 ✔️ --:
