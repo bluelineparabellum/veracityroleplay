@@ -2,6 +2,7 @@ Known issues and fixes suggested by community members
 
 🟢 Fixed and ready to be implemented
 ✔️ Crypto Guy: Fixed crypto guy with ox_inventory
+✔️ ox_inventory: Fixed ped placement for 24/7 at Postal 850
 
 🟡 Needs Additonal Testing
 ⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
@@ -10,6 +11,7 @@ Known issues and fixes suggested by community members
 ⚠️ Rock-Paper-Scissors: Still Testing
 
 🔴 Needs Fixin
+🧰 SAFD: Supply Line job check has an issue // INFORMED DEV
 🧰 Wheel Lock: Wheel Lock with Advanced Parking // INFORMED DEV
 🧰 Smash&Grab: Needs fixing // INFORMED DEV
 🧰 Vehicles: Debadged all current vehicles (Towing still needed)
