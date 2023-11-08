@@ -1,51 +1,34 @@
-Version 0.53
+Version 0.54
 
 🟣 ADDED
-•  Trash Bins: Currently added trash bins for BCSO & Paxtons (these delete every restart) - Will continue to add more.
-•  BCSO Sandy Shores: NEW AND REVAMPED Sheriffs Office!
-•  Payphones: Select payphones are now accessible just in case you don't have your phone!
-•  Halloween Event: Event is now ongoing! Trick or Treat and multiple activities available till the 31st!
-•  Halloween Graveyard: Added extra graveyard ymap
-•  ox_inventory_addons: First iteration of carrying items and items on back.
+•  ox_inventory_addons: Applied 95% of weapons to back carrying.
+•  Wipe Event: Script is ready for wipe event. Working on getting there currently.
+•  Weapon Recoil: Added current weapon list. Still need to fine tune later on.
+•  Burner Phone: Added burner phone for illegal activity 
+•  Minigame: Added new minigame for hacking.
+•  DRUGS: Added heroin 
+•  Server Information: Added discord link to server information
+•  Lottery: Added lottery system and terminals for VeraCity!
 
 🟡 Changed
-•  ox_inventory: Added code to not overfill inventory. Make sure you are checking your weight before receiving items! Changed players weights from 30,000 to 50,000 grams!
-•  oxmysql: Updated
-•  BoomBox: Updated
-•  Gym: Updated
-•  Skills: Updated
-•  wasabi_bridge: Updated
-•  Wasabi Ambulance: Updated
-•  KQ Wheel Damage: Updated
-•  Rock-Paper-Scissors: Updated / Still testing
-•  Wasabi-Halloween: Updated
-•  vms gym and hud: Updated and disabled toggle hud keybind/command
-•  Rebel Towing: Rollback is able to handle offroad a bit better. Storage added for employees
-•  r-14 evidence: Updated and modified for Rebel Towing to store photos
-•  Vehicles Debadged: Completed 1 of 1 vehicles. Debadged current BCSO Fleet.
-•  Dirk Crafting: Updated
-•  RTX Carry: Updated
-•  okokChatV2: Updated
-•  CD_VehicleControl: Updated
-•  TAD_Chopshop: Updated
-•  RCORE_CAM: Updated
-•  Allow List (whitelist): Updated
-•  Multicharacter: Updated
-•  JG Dealerships: Updated. You can now sell your car to select dealerships
+•  Vehicles: Debadged all current vehicles. K1500 added for public use.
+•  VIN Scratching: Easier blip finding of vehicle location. Modified coop minigame.
+•  Dirk: Updated
+•  ox-lib: Updated
+•  ox-target: Updated
+•  ox-inventory: Updated
+•  Skills: Changed driving level increase amount to 0.2 xp
+•  Speed Limit UI: Changed 35mph areas to 45mph
+•  Hunting: Updated
 
 🟢 Fixes
-✔️ Management Menus: Fixed boss menus for businesses.
-✔️ Mechanic: qb-managment now tied in with mechanic jobs. Better fix to multijob integration with mechanic jobs.
-✔️ LB-Phone: Ringtones are now working!
-✔️ Annoying Josh Banker: He is finally gone
-✔️ Boombox: Easier to access boombox.
-✔️ LB-Phone: Fix twitter likes not working
-✔️ Item Images: Pisswasser Drink images fixed
-✔️ Vanilla Unicorn: Fixed the best we could on pole script.
-✔️ Halloween Map/Script: Fixed map issues
+✔️ Crypto Guy: Fixed crypto guy with ox_inventory
+✔️ ox_inventory: Fixed ped placement for 24/7 at Postal 850
 
 🔴 Removed
-❌ Vehicles: Starting on the process of removing badged vehicles.
+❌ Other Scratch off resources: Removed
 
 🔵 Discordia/Website
-•  Format and Whitelist Form: Formatted discord categories and added whitelist form to tickets
+•  Official Guidebook: Fixed link to Official Guidebook. Thank you @Lo
+•  Discord FAQ Channel: Updated format. Added how to unlock character slots.
+•  Server Status: Moved Server-Status to "Server Information" category.
