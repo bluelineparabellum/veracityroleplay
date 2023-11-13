@@ -2,10 +2,17 @@ Version 0.55
 
 🟣 ADDED
 •  MLOS: Added Used-A-Ton Pawnshop. Added new location for fishing & hunting store
+•  T1gers Gang System: Added for gangs. Sell drugs, protect businesses, engange in rackets.
+•  MDT: Added all current charges to MDT
+•  Crafting and Skill: Added crafting skill and crafting is WIP.
 
 🟡 Changed
+•  Clothing EUP: Updated. Added Mayans and Sons of Anarchy Hoodies. Added Used-A-Ton staff shirts. Added Rebel Towing clothing.
 •  Offroad Physics: Updated
 •  okokBanking: Changed ATM use from E interaction to target
+•  HUD: Updated
+•  Wasabi Bridge: Updated
+•  Rcore Prison: Updated
 
 🟢 Fixes
 ✔️ --:
