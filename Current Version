@@ -1,34 +1,36 @@
-Version 0.54
+Version 0.55
 
 🟣 ADDED
-•  ox_inventory_addons: Applied 95% of weapons to back carrying.
-•  Wipe Event: Script is ready for wipe event. Working on getting there currently.
-•  Weapon Recoil: Added current weapon list. Still need to fine tune later on.
-•  Burner Phone: Added burner phone for illegal activity 
-•  Minigame: Added new minigame for hacking.
-•  DRUGS: Added heroin 
-•  Server Information: Added discord link to server information
-•  Lottery: Added lottery system and terminals for VeraCity!
+•  MLOS: Added Used-A-Ton Pawnshop. Added new location for fishing & hunting store. Added new Legion Square!
+•  T1gers Gang System: Added for gangs. Sell drugs, protect businesses, engange in rackets.
+•  MDT: Added all current charges to MDT
+•  Crafting and Skill: Added crafting skill and crafting is WIP.
+•  WEATHER: Added Renewed Weather. Better synced weather and time
 
-🟡 Changed
-•  Vehicles: Debadged all current vehicles. K1500 added for public use.
-•  VIN Scratching: Easier blip finding of vehicle location. Modified coop minigame.
-•  Dirk: Updated
-•  ox-lib: Updated
-•  ox-target: Updated
-•  ox-inventory: Updated
-•  Skills: Changed driving level increase amount to 0.2 xp
-•  Speed Limit UI: Changed 35mph areas to 45mph
-•  Hunting: Updated
+🟡 CHANGED
+•  Clothing EUP: Updated. Added Mayans and Sons of Anarchy Hoodies. Added Used-A-Ton staff shirts. Added Rebel Towing clothing.
+•  Offroad Physics: Updated. Snow and Rain now effects vehicle traction.
+•  okokBanking: Changed ATM and Bank use from E interaction to target
+•  HUD: Updated. Gear and engine damage display. Added compass direction
+•  Wasabi Bridge: Updated
+•  Rcore Prison: Updated
+•  Vanilla Unicorn MLO: Updated
+•  Traffic Light Behavior: Updated
+•  Chicken Butcher: Updated Chicken Job
+•  Housing: Updated
+•  Pawnshop: Updated
+•  KQ Winch/Tow: Updated
+•  Heroin: Updated
+•  ti_utils: Updated
+•  AP Court: Updated
 
-🟢 Fixes
-✔️ Crypto Guy: Fixed crypto guy with ox_inventory
-✔️ ox_inventory: Fixed ped placement for 24/7 at Postal 850
+🟢 FIXES
+✔️ Chicken Butcher: Delivery point is working. GPS may act up at times so be sure to re-route if needed.
 
-🔴 Removed
-❌ Other Scratch off resources: Removed
+🔴 REMOVED
+❌ MLOS: Removed Harrison & Paleto Pawnshops. Removed Old Hunting & Fishing Store
+❌ WEATHER: Removed code design easy time
+❌ Surfboard: Removed
 
-🔵 Discordia/Website
-•  Official Guidebook: Fixed link to Official Guidebook. Thank you @Lo
-•  Discord FAQ Channel: Updated format. Added how to unlock character slots.
-•  Server Status: Moved Server-Status to "Server Information" category.
+🔵 DISCORDIA/WEBSITE
+•  New Emojis: Blob Giggle

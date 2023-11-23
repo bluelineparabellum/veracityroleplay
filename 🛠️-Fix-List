@@ -1,8 +1,7 @@
 Known issues and fixes suggested by community members
 
 🟢 Fixed and ready to be implemented
-✔️ Crypto Guy: Fixed crypto guy with ox_inventory
-✔️ ox_inventory: Fixed ped placement for 24/7 at Postal 850
+✔️ Chicken Butcher: Delivery point is working. GPS may act up at times so be sure to re-route if needed.
 
 🟡 Needs Additonal Testing
 ⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
@@ -17,7 +16,6 @@ Known issues and fixes suggested by community members
 🧰 Vehicles: Debadged all current vehicles (Towing still needed)
 🧰 GN Sheriff Map: Find conflicting issue for pedestrian parking gate.
 🧰 Hotwiring: Fix hotwiring with ox-lib minigame // PLANNING TO GET A DIFFERENT KEY SYSTEM
-🧰 Chicken Butcher: Currently a % chance it actually gives you a waypoint for delivery. // Have informed DEV
 
 🔴 Long Term Fixing
 🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
