@@ -6,10 +6,12 @@ Known issues and fixes suggested by community members
 🟡 Needs Additonal Testing
 ⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
 ⚠️ Candy for Halloween Event: Need to perfect prop handling of candy
-⚠️ RD-Citations: Citations not ox_inventory ready. // TESTING
 ⚠️ Rock-Paper-Scissors: Still Testing
 
 🔴 Needs Fixin
+🧰 Wasabi Police: Fix jailing through menu
+🧰 Heroin: Fix barrel
+🧰 RD-Citations: Citations not ox_inventory ready.
 🧰 SAFD: Supply Line job check has an issue // INFORMED DEV
 🧰 Wheel Lock: Wheel Lock with Advanced Parking // INFORMED DEV
 🧰 Smash&Grab: Needs fixing // INFORMED DEV
