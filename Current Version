@@ -1,36 +1,36 @@
-Version 0.55
+Version 0.56
 
 🟣 ADDED
-•  MLOS: Added Used-A-Ton Pawnshop. Added new location for fishing & hunting store. Added new Legion Square!
-•  T1gers Gang System: Added for gangs. Sell drugs, protect businesses, engange in rackets.
-•  MDT: Added all current charges to MDT
-•  Crafting and Skill: Added crafting skill and crafting is WIP.
-•  WEATHER: Added Renewed Weather. Better synced weather and time
+•  Realistic Handling: Realistic Handling for all vanilla vehicles
+•  Rebel Towing: Added new towing vehicles
+•  Envi-Medic: Added new AI medic system
+•  Lation Metal Detecting: Added new metal detecting system
+•  Lation Scuba Diving: Added new scuba diving system
+•  New Vehicle: Added Doge TRX
+•  Don Gifts: Added Christmas trees bearing a gift each day!
+•  Envi Dumpsters: New dumpster diving system with alot of features!
+•  MLO: Mayans MLO added in Paleto.
 
 🟡 CHANGED
-•  Clothing EUP: Updated. Added Mayans and Sons of Anarchy Hoodies. Added Used-A-Ton staff shirts. Added Rebel Towing clothing.
-•  Offroad Physics: Updated. Snow and Rain now effects vehicle traction.
-•  okokBanking: Changed ATM and Bank use from E interaction to target
-•  HUD: Updated. Gear and engine damage display. Added compass direction
-•  Wasabi Bridge: Updated
-•  Rcore Prison: Updated
-•  Vanilla Unicorn MLO: Updated
-•  Traffic Light Behavior: Updated
-•  Chicken Butcher: Updated Chicken Job
-•  Housing: Updated
-•  Pawnshop: Updated
-•  KQ Winch/Tow: Updated
-•  Heroin: Updated
-•  ti_utils: Updated
-•  AP Court: Updated
+•  BCSO Fleet: All vehicles debadged
+•  Wheel Lock: Updated
+•  VMS Gym: Updated. Gyms are now set up for membership purchases. Made boating not increase driving skill. Speed mishaps equal or greater than 98mph.
+•  Wasabi_Ambulance: Updated
+•  Wasabi_Police: Updated
+•  wasabi_bridge: Updated
+•  Vehicle Sounds: Changed Crown Vic and Taurus vehicle engine sounds
+•  oxmysql: Updated
+•  oxlib: Updated
 
 🟢 FIXES
-✔️ Chicken Butcher: Delivery point is working. GPS may act up at times so be sure to re-route if needed.
+✔️ Wasabi Ambulance: Fixed pressing E and respawning at the hospital. Removed EMS Base from list.
 
 🔴 REMOVED
-❌ MLOS: Removed Harrison & Paleto Pawnshops. Removed Old Hunting & Fishing Store
-❌ WEATHER: Removed code design easy time
-❌ Surfboard: Removed
+❌ Rebel Towing: Removed Kentworth due to collision issues
+❌ Envi Dumpster Dive: Removed dumpster diving
+❌ Item List: Removed unused item list. Will continue doing so.
+❌ MLO: Removed old MC clubhouse in Sandy
 
 🔵 DISCORDIA/WEBSITE
-•  New Emojis: Blob Giggle
+•  Dynasty 8 Reality: Added Waiting Room & Office voice channels for realty consultations
+•  Discounts Section: Added discounts section for server boosters and supporters
