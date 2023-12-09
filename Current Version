@@ -1,36 +1,33 @@
-Version 0.56
+Version 0.57
 
 🟣 ADDED
-•  Realistic Handling: Realistic Handling for all vanilla vehicles
-•  Rebel Towing: Added new towing vehicles
-•  Envi-Medic: Added new AI medic system
-•  Lation Metal Detecting: Added new metal detecting system
-•  Lation Scuba Diving: Added new scuba diving system
-•  New Vehicle: Added Doge TRX
-•  Don Gifts: Added Christmas trees bearing a gift each day!
-•  Envi Dumpsters: New dumpster diving system with alot of features!
-•  MLO: Mayans MLO added in Paleto.
+•  Map addition
+•  MLO: Added Exotic Motorcycle Dealership
+•  MLO: Added Eastern Motel and rooms for rent!
+•  SCNP: Radios for all LEO, FIRE, EMS, and REBEL TOWING
+•  Cutscene: Added cutscene for new characters. Will be able to get taxi ride to 1 of 3 locations.
 
 🟡 CHANGED
-•  BCSO Fleet: All vehicles debadged
-•  Wheel Lock: Updated
-•  VMS Gym: Updated. Gyms are now set up for membership purchases. Made boating not increase driving skill. Speed mishaps equal or greater than 98mph.
-•  Wasabi_Ambulance: Updated
-•  Wasabi_Police: Updated
-•  wasabi_bridge: Updated
-•  Vehicle Sounds: Changed Crown Vic and Taurus vehicle engine sounds
-•  oxmysql: Updated
-•  oxlib: Updated
-
-🟢 FIXES
-✔️ Wasabi Ambulance: Fixed pressing E and respawning at the hospital. Removed EMS Base from list.
+•  EUP: Updated EUP
+•  D3MBA LIB: Changed gas mask for both male and female involved in D3mba Scripts
+•  ENVI PERSCRIPTIONS: Added Doctor role. Updated.
+•  KD TOWING: Updated
+•  KQ WINCH: Updated
+•  HEROIN: Updated
+•  COCAINE: Updated
+•  DIVING: Updated
+•  MDT: Updated MDT permissions
+•  CD DISPATCH: Changed all units on dispatch/minimap to respective colors
+•  GIFTS: Updated
+•  METAL DETECTING: Updated
+•  STRESS: Updated stress working in consumables
+•  OKOKGARAGE: Checks every 5 minutes if vehicle was DV'd. Sets it as impounded.
+•  REBEL TOWING: Refined towing process
+•  AP GOVERNMENT: Updated
+•  WOOSH PD: Updated
+•  WASABI AMBULANCE: Updated
+•  okokBanking: Changed Pin Change cost to $100
 
 🔴 REMOVED
-❌ Rebel Towing: Removed Kentworth due to collision issues
-❌ Envi Dumpster Dive: Removed dumpster diving
-❌ Item List: Removed unused item list. Will continue doing so.
-❌ MLO: Removed old MC clubhouse in Sandy
-
-🔵 DISCORDIA/WEBSITE
-•  Dynasty 8 Reality: Added Waiting Room & Office voice channels for realty consultations
-•  Discounts Section: Added discounts section for server boosters and supporters
+❌ BIKE RENT: Removed bike rentals
+❌ IN-GAME GUIDEBOOK: Removed
