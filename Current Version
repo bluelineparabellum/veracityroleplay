@@ -14,4 +14,4 @@ GAME MODE UPDATED TO 2944
 •  RCORE CAM: Updated
 
 🟢 FIXES
-✔️ FOOD: Fixed hunting food time and stats. Consuming food and drink will not block inventory use till used or cancelled.
+✔️ FOOD: Fixed hunting food time and stats. Consuming food and drink will now block inventory use till used or cancelled.
