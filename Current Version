@@ -1,33 +1,17 @@
-Version 0.57
-
-🟣 ADDED
-•  Map addition
-•  MLO: Added Exotic Motorcycle Dealership
-•  MLO: Added Eastern Motel and rooms for rent!
-•  SCNP: Radios for all LEO, FIRE, EMS, and REBEL TOWING
-•  CUTSCENE: Added cutscene for new characters. Will be able to get taxi ride to 1 of 3 locations.
+Version 0.58
+GAME MODE UPDATED TO 2944
 
 🟡 CHANGED
-•  EUP: Updated EUP
-•  D3MBA LIB: Changed gas mask for both male and female involved in D3mba Scripts
-•  ENVI PERSCRIPTIONS: Added Doctor role. Updated.
-•  KD TOWING: Updated
-•  KQ WINCH: Updated
-•  HEROIN: Updated
-•  COCAINE: Updated
-•  DIVING: Updated
-•  MDT: Updated MDT permissions
-•  CD DISPATCH: Changed all units on dispatch/minimap to respective colors
-•  GIFTS: Updated
-•  METAL DETECTING: Updated
-•  STRESS: Updated stress working in consumables
-•  OKOKGARAGE: Checks every 5 minutes if vehicle was DV'd. Sets it as impounded.
-•  REBEL TOWING: Refined towing process
-•  AP GOVERNMENT: Updated
-•  WOOSH PD: Updated
-•  WASABI AMBULANCE: Updated
-•  OKOKBANKING: Changed Pin Change cost to $25
+•  BOATING SCHOOL: Updated
+•  FLIGHT SCHOOL: Updated
+•  HUD: Updated
+•  OXLIB: Updated
+•  OXMYSQL: Updated
+•  GYM / SKILLS: Updated
+•  CLOSED SHOPS: Updated
+•  OXINVENTORY: Updated. Starting process of adding decay and degrade to items.
+•  MULTICHARACTER: Updated. HUD now hides when selecting multi-character
+•  RCORE CAM: Updated
 
-🔴 REMOVED
-❌ BIKE RENT: Removed bike rentals
-❌ IN-GAME GUIDEBOOK: Removed
+🟢 FIXES
+✔️ FOOD: Fixed hunting food time and stats. Consuming food and drink will not block inventory use till used or cancelled.
