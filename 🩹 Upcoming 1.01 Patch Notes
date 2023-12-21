@@ -1,10 +1,16 @@
-Version 0.59
+Version 1.01
 
 🟣 ADDED
 •  --: --
 
 🟡 CHANGED
-•  --: --
+•  JIM RECYCLE: Modified how much is obtained. Math.Random was removed from selling prices as it would give you the incorrect amount.
+•  DON GIFTS: Updated
+•  DRIVING SCHOOL: Modified Motorcycle Theory test
+•  ITEMS: Modified samsung to Samdung and iPhone to uPhone
+•  PAWNSHOP: Added being able to sell Samdung phone's and uPhone's to pawnshop
+•  WASABI AMBULANCE: Updated
+•  ENVI-MEDIC: Updated. /callmedic to call for ambulance. Players are now able to do themselves (for now)
 
 🟢 FIXES
 ✔️ --: --
