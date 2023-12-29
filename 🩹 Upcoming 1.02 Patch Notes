@@ -4,15 +4,21 @@ Version 1.02
 •  --: --
 
 🟡 CHANGED
-•  BUS Clothing: Updated. Bus Clothing now has new escrowed system. We apologize for the many changes they have done.
-•  VC Clothing: Added clothing needed for businesses and gangs. They should be at the end of the clothing lists just like our law enforcement agencies.
-•  Vehicle Handling: Updated file
-•  Wasabi Ambulance: Updated
-•  d3mba-lib: Updated
+•  BUS CLOTHING: Updated. Bus Clothing now has new escrowed system. We apologize for the many changes they have done.
+•  VC CLOTHING: Added clothing needed for businesses and gangs. They should be at the end of the clothing lists just like our law enforcement agencies.
+•  VEHICLING HANDLING: Updated file
+•  WASABI AMBULANCE: Updated. Also fixed bandage to stop bleeding. Heals 5hp
+•  D3MBA-LIB: Updated
 •  SCN Radio: Updated
+•  SPEED TRAPS: Highway cameras do not charge. City cameras now only charge $50.
+•  WASABI(BRIDGE): Updated
+•  RPEMOTES: Updated. New content
+•  OKOKGARAGE: Random plates disabled for society vehicles = Faster garage load times.
+•  METAL DETECTING: Updated
+•  MK SCOREBOARD: Updated
 
 🟢 FIXES
-✔️ --: --
+✔️ RECYCLE SCRAP: Fixed minigame issues
 
 🔴 REMOVED
 ❌ --: --
