@@ -1,10 +1,25 @@
-Version 1.01
+Version 1.02
+
+🟣 ADDED
+•  RADIO: Added new radio for civilians. Same item, different interface. Changed radio animation and unable to use left click while using radio.
 
 🟡 CHANGED
-•  JIM RECYCLE: Modified how much is obtained. Math.Random was removed from selling prices as it would give you the incorrect amount.
-•  DON GIFTS: Updated
-•  DRIVING SCHOOL: Modified Motorcycle Theory test
-•  ITEMS: Modified samsung to Samdung and iPhone to uPhone
-•  PAWNSHOP: Added being able to sell Samdung phone's and uPhone's to pawnshop
-•  WASABI AMBULANCE: Updated
-•  ENVI-MEDIC: Updated. /callmedic to call for ambulance. Players are now able to do themselves (for now)
+•  BUS CLOTHING: Updated. Bus Clothing now has new escrowed system. We apologize for the many changes they have done.
+•  VC CLOTHING: Added clothing needed for businesses and gangs. They should be at the end of the clothing lists just like our law enforcement agencies.
+•  VEHICLING HANDLING: Updated file
+•  WASABI AMBULANCE: Updated. Also fixed bandage to stop bleeding. Heals 5hp
+•  D3MBA-LIB: Updated
+•  SCN RADIO: Updated
+•  SPEED TRAPS: Highway cameras do not charge. City cameras now only charge $50.
+•  WASABI(BRIDGE): Updated
+•  RPEMOTES: Updated. New content
+•  OKOKGARAGE: Random plates disabled for society vehicles = Faster garage load times.
+•  METAL DETECTING: Updated
+•  MK SCOREBOARD: Updated
+•  VEHICLES: Restomod Zilla Updated
+
+🟢 FIXES
+✔️ RECYCLE SCRAP: Fixed minigame issues. Modified difficulty
+
+🔴 REMOVED
+❌ OLD QB RADIO: Removed
