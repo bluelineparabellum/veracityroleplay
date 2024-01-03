@@ -1,12 +1,11 @@
 Known issues and fixes suggested by community members
 
 🟢 Fixed and ready to be implemented
-✔️ --: --
+✔️ FOOD: --
+✔️ IMAGES: --
 
 🟡 Needs Additonal Testing
-⚠️ Wheel Damage w/ Mechanic: Need to check if fixing wheels fix wheel damage caused by KQ's script
-⚠️ Candy for Halloween Event: Need to perfect prop handling of candy
-⚠️ Rock-Paper-Scissors: Still Testing
+⚠️ --: --
 
 🔴 Needs Fixin
 🧰 Wasabi Police: Fix jailing through menu
@@ -19,6 +18,7 @@ Known issues and fixes suggested by community members
 🧰 Hotwiring: Fix hotwiring with ox-lib minigame // PLANNING TO GET A DIFFERENT KEY SYSTEM
 
 🔴 Long Term Fixing
+🛠️ WHEEL LOCK: Waiting on Kiminazie for wheel lock
 🛠️ Vehicle Inventories: Work on completing current and completed vehicle inventories
 🛠️ Player Inventories: Decide on a final on person weight inventory
 🛠️ Housing: Set inventory limits for storages bought in shop
@@ -28,3 +28,8 @@ Known issues and fixes suggested by community members
 🛠️ Police Charges: Integrate list of charges to MDT and CITATIONS
 🛠️ EMS/FIRE: Everything
 🛠️ Prison: Everything
+
+🔴 Inventory Fixing
+🛠️ FOOD: Sliced Onions, Candy for Halloween Event. Need to perfect prop handling of candy
+🛠️ DRINK: --
+🛠️ IMAGES: --
