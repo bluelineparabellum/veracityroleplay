@@ -12,7 +12,9 @@ Version 1.03
 •  MINING: Modified smelt crafting
 •  OKOKGARAGE: Switched back to random plates. Was causing issues with duplicate plate deletion
 •  VEHICLE TRUNK CAPACITY: Modified vehicle trunk capacities
-•  MINING: Modified % chances of breaking - Pickaxe = 25%, Drillbit = 20%, Drill = 10%, Mining Laser = 2%
+•  MINING: Modified mining equipment with degrade and decay. Set times items will decay, when they reach 0 they will delete from inventory.
+•  SHOPS: Added sandwiches to gas stations
+
 
 🟢 FIXES
 ✔️ FOOD: Orange, Bread (Eat Values)
