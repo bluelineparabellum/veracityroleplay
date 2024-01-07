@@ -1,25 +1,15 @@
-Version 1.02
+Version 1.04
 
 🟣 ADDED
-•  RADIO: Added new radio for civilians. Same item, different interface. Changed radio animation and unable to use left click while using radio.
+•  SERVER SIDE GRAPHICS: New serverside graphics. Multiple Improvements. NVE is no longer needed!
 
 🟡 CHANGED
-•  BUS CLOTHING: Updated. Bus Clothing now has new escrowed system. We apologize for the many changes they have done.
-•  VC CLOTHING: Added clothing needed for businesses and gangs. They should be at the end of the clothing lists just like our law enforcement agencies.
-•  VEHICLING HANDLING: Updated file
-•  WASABI AMBULANCE: Updated. Also fixed bandage to stop bleeding. Heals 5hp
-•  D3MBA-LIB: Updated
-•  SCN RADIO: Updated
-•  SPEED TRAPS: Highway cameras do not charge. City cameras now only charge $50.
-•  WASABI(BRIDGE): Updated
-•  RPEMOTES: Updated. New content
-•  OKOKGARAGE: Random plates disabled for society vehicles = Faster garage load times.
+•  INSURANCE: Updated to V2 of Insurance! Brand new sql tables so you will need to acquire insurance again. $1000 has been added to all bank accounts!
+•  DEMI PEDS: Updated
+•  CDN FUEL: Modified fuel consumption rates for all classes
+•  PROGRESS BAR: Changed from circle to bar to elevate other issues with scripts
+•  VERACITY SIGN: Changed the sign. We can now modify on the fly and change colors!
 •  METAL DETECTING: Updated
-•  MK SCOREBOARD: Updated
-•  VEHICLES: Restomod Zilla Updated
-
-🟢 FIXES
-✔️ RECYCLE SCRAP: Fixed minigame issues. Modified difficulty
 
 🔴 REMOVED
-❌ OLD QB RADIO: Removed
+❌ T1GER MECH LIFTS: Removed for now till they are fixed by dev
