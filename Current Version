@@ -1,16 +1,18 @@
-Version 1.04
+Version 1.05
 
 🟣 ADDED
-•  SERVER SIDE GRAPHICS: New serverside graphics. Multiple Improvements. NVE is no longer needed!
-•  1OF1 VEHICLES: Added 204sBeastWagon
+•  T1GER TUNING SYSTEM: ADDED
 
 🟡 CHANGED
-•  INSURANCE: Updated to V2 of Insurance! Brand new sql tables so you will need to acquire insurance again. $1000 has been added to all bank accounts!
-•  DEMI PEDS: Updated
-•  CDN FUEL: Modified fuel consumption rates for all classes
-•  PROGRESS BAR: Changed from circle to bar to elevate other issues with scripts
-•  VERACITY SIGN: Changed the sign. We can now modify on the fly and change colors!
-•  METAL DETECTING: Updated
+•  DEALERSHIPS: Major change. Modified down payments from 10% to 25%. Modified vehicle payments to every 3 hours (in-game) and if late on payment, only two hours till repo. Modified intrest to 14%
+•  FOOD: Added tofu to consume list
+•  DIVING: Updated
+•  MLOS: Updated Vanilla Unicorn. Updated Rising Sun (Paxtons Motorsports)
+•  T1GER LIB: Updated
+•  17MOV BUILDER JOB: Modified payout
 
-🔴 REMOVED
-❌ T1GER MECH LIFTS: Removed for now till they are fixed by dev
+🟢 FIXES
+✔️ DEALERSHIPS: TEST DRIVING IS NOW WORKING PROPERLY
+
+🔵 DISCORDIA/WEBSITE
+•  DISCORD: Cleaned up more channels. Fixed embeds in staff channels
