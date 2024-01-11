@@ -1,18 +1,20 @@
-Version 1.05
+Version 1.06
 
 🟣 ADDED
-•  T1GER TUNING SYSTEM: ADDED
+•  JG GARAGES: New garage system! All vehicles have been sent to Legion Parking!
 
 🟡 CHANGED
-•  DEALERSHIPS: Major change. Modified down payments from 10% to 25%. Modified vehicle payments to every 3 hours (in-game) and if late on payment, only two hours till repo. Modified intrest to 14%
-•  FOOD: Added tofu to consume list
-•  DIVING: Updated
-•  MLOS: Updated Vanilla Unicorn. Updated Rising Sun (Paxtons Motorsports)
-•  T1GER LIB: Updated
-•  17MOV BUILDER JOB: Modified payout
+•  M-INSURANCE: Modified Registration price to $1000. Price changes involving 5% and 10% discounts. Insurance price changes, 1 Month = $200, 2 Months = $570, 3 Months = $900. House Insurance price changes, 1 Month = $1000, 2 Months = $2850, 3 Months = $4500. Health Insurance price changes, 1 Month = $1000, 2 Months = $1900, 3 Months = $2700. Fixed issues showing status in MDT for LEO. Added emotes for cards
+•  INVENTORY WEIGHTS: Modified spike strip to 15lb
+•  MM-RADIO: Updated
+•  RPEMOTES: Disabled cancel emote key. Now use /emotecancel or F7 menu cancel
+•  AFK TIMER: Modified from 30 minutes to 60 minutes
+•  FISHING: Modified Fishing Lures to have degrade and decay. 7 days for legal and 14 days for illegal. Properly fixed canceling setting bait.
+•  OKOKBILLING: Updated. Modified command for menu, use "/billing". Modified more ranks to access Society Invoices.
+•  1OF1VEHICLES: Modified Templar
 
 🟢 FIXES
-✔️ DEALERSHIPS: TEST DRIVING IS NOW WORKING PROPERLY
+✔️ INVENTORY IMAGES: Flounder Fish
 
 🔵 DISCORDIA/WEBSITE
-•  DISCORD: Cleaned up more channels. Fixed embeds in staff channels
+•  EMOJIS: Added Marlboro cigarette pack
