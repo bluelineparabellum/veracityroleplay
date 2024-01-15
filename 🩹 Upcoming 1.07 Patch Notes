@@ -2,15 +2,39 @@ Version 1.07
 
 🟣 ADDED
 •  VMS WEAPON RECOIL: Added by VMS SKILLS
+•  SAFD: Added Gladiator Brush and Wagoner Vehicles to fleet
+•  NOPIXEL VEGETATION SERVER SIDED: Added nopixels vegetation server sided visuals
 
 🟡 CHANGED
-•  --: --
+•  CLOTHING/CHARACTERS: Females Updated. Eye pupils and colors updated!
+•  T1GER TUNING SYSTEM: Updated
+•  T1GER MECHANIC SYSTEM: Updated
+•  T1GER LIB: Updated
+•  WASABI POLICE: Updated
+•  WASABI AMBULANCE: Updated
+•  LB-PHONE: Modified Garage App to be used with JG Advanced Garages
+•  BCSO SHERIFFS OFFICE MLO: Updated
+•  K4MB1 ALL SHELLS PACK: Updated
+•  1OF1S: Finalized prices for 1of1 vehicles in shared file
+•  FOODS: Added degrade/decay to tosti, sandwich, croissant and all current coffees!
+•  BURGER SHOT: Adjusted prices of finished items to match economy.
+•  POPS DINER: Adjusted prices of finished items to match economy.
+•  CLOSED SHOPS: Re-adjusted values to x5 the base price for closed shops. Added stock to BurgerShot and Pops Diner
+•  METAL DETECTING: Re-adjusted XP levels. Lvl2 = 5000xp, Lvl3 = 20,000xp, Lvl4 = 50,000xp, Lvl5 = 100,000xp
+•  OX_LIB: Updated
+•  OX_INVENTORY: Updated
+
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
 ❌ TC WEAPON RECOIL: Removed
+❌ OKOKGARAGE: Removed and cleaned database of all files associated
+❌ FS SERVER SIDE GRAPHICS: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
+
+📰 OTHER UPCOMING NEWS
+•  We are working on another discord tier for VeraCity that will include giveaways, store discount, and more opportunites for server assests
