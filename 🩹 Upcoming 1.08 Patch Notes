@@ -4,14 +4,19 @@ Version 1.08
 •  --: --
 
 🟡 CHANGED
+•  HUNGER/THRIST RATES: Modified slowing hunger rate from 3.8 to 3.5
 •  LATION DIVING: Updated
+•  D3MBA LIB: Updated
+•  INVENTORY: Modified stone weight to 500 grams
+•  MINING: Modified mining prices to balance economy
+•  LB-PHONE: Added Pearls and Outlaw Performance to Services App
 
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ MLOS: Multiple unused mlos
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
