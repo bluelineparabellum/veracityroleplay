@@ -1,15 +1,18 @@
-Version 1.08
+Version 1.09
+
+🟣 ADDED
+•  VEHICLES: Doge Ghoul Challenge was added to PDM
 
 🟡 CHANGED
-•  HUNGER/THRIST RATES: Modified slowing hunger rate from 3.8 to 3.5
-•  LATION DIVING: Updated
-•  D3MBA LIB: Updated
-•  INVENTORY: Modified stone weight to 500 grams
-•  MINING: Modified mining prices to balance economy
-•  LB-PHONE: Added Pearls and Outlaw Performance to Services App
-
-🟢 FIXES
-✔️ HUNTING: Fixed store
+•  PARTS SHOP: Added Outlaw Performance to parts shop in Sandy Shores
+•  INVENTORY: Added degrade and decay to sodas, water bottles, coffee machine sticks, ghost energy drinks, Burgershot food and drinks
+•  INVENTORY IMAGES: Fixed Pisswasser 1, 2, and 3 images
+•  OX_LIB: Updated
+•  LB PHONE: Modified current job coordinates in Services App
+•  FOOD: Made onions, potatoes, flour, strawberry, and milk universal
+•  VANILLA UNICORN: Craftable Coffee. Added Coffee Beans in Drink Store
+•  POPS DINER: Fixed doors. Fixed billing with cash registers. Craftable Coffee. Added Coffee Beans in Food Store
+•  PEARLS SEAFOOD: Modified ingredient prices
 
 🔴 REMOVED
-❌ MLOS: Multiple unused mlos
+❌ VEHICLES: Removed 392Scat
