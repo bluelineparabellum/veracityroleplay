@@ -1,18 +1,27 @@
-Version 1.09
+Version 1.10
 
 🟣 ADDED
-•  VEHICLES: Doge Ghoul Challenge was added to PDM
+•  MLO: New fire department in Sandy Shores!
+•  CUTSCENE: New cutscene for new players and they will be able to take a taxi from the airport!
 
 🟡 CHANGED
-•  PARTS SHOP: Added Outlaw Performance to parts shop in Sandy Shores
-•  INVENTORY: Added degrade and decay to sodas, water bottles, coffee machine sticks, ghost energy drinks, Burgershot food and drinks
-•  INVENTORY IMAGES: Fixed Pisswasser 1, 2, and 3 images
-•  OX_LIB: Updated
-•  LB PHONE: Modified current job coordinates in Services App
-•  FOOD: Made onions, potatoes, flour, strawberry, and milk universal
-•  VANILLA UNICORN: Craftable Coffee. Added Coffee Beans in Drink Store
-•  POPS DINER: Fixed doors. Fixed billing with cash registers. Craftable Coffee. Added Coffee Beans in Food Store
-•  PEARLS SEAFOOD: Modified ingredient prices
+•  UWU CAT CAFE: Added crafting for coffee and latte. Fixed ingredients
+•  XSOUND: Updated
+•  INVENTORY: Modifing decaying items to not be stacked to fix fast decay. Modified not being able to stack fishing rods. Degrade was removed from fishing baits. Degrade was added to all fish that can be caught.
+•  LB PHONE: Updated. Updated Phone Prop. Moved API keys to FiveManage
+•  VEHICLES: Modified speeds of ISSI and MULE vehicles
+•  ENVI DUMPSTERS: Updated and modified items and time checks
+•  ENVI MEDIC: Updated
+•  BUTCHER JOB: Modified prices and weights of all bi-products
+•  CIVILIAN RADIO: Added back keybinding for Talk Over Radio.
+•  DRIVING SCHOOL: Updated and modified Driving Theory Test
+•  TXADMIN: Updated
+
+🟢 FIXES
+✔️ INVENTORY IMAGES: Fixed FishNChips
 
 🔴 REMOVED
-❌ VEHICLES: Removed 392Scat
+❌ STATION 24: To many issues with protecting the assest. Oof.
+
+🔵 DISCORDIA/WEBSITE
+•  BOT: Fixed some bot issues
