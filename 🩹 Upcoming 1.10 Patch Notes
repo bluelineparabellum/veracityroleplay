@@ -7,13 +7,15 @@ Version 1.10
 🟡 CHANGED
 •  UWU CAT CAFE: Added crafting for coffee and latte. Fixed ingredients
 •  XSOUND: Updated
-•  INVENTORY: Modifing decaying items to not be stacked to fix fast decay. Modified not able to stack fishing rods. Degrade was removed from fishing baits. Degrade was added to all fish that can be caught.
+•  INVENTORY: Modifing decaying items to not be stacked to fix fast decay. Modified not being able to stack fishing rods. Degrade was removed from fishing baits. Degrade was added to all fish that can be caught.
 •  LB PHONE: Updated. Updated Phone Prop. Moved API keys to FiveManage
 •  VEHICLES: Modified speeds of ISSI and MULE vehicles
 •  ENVI DUMPSTERS: Updated and modified items and time checks
 •  ENVI MEDIC: Updated
 •  BUTCHER JOB: Modified prices and weights of all bi-products
 •  CIVILIAN RADIO: Added back keybinding for Talk Over Radio.
+•  DRIVING SCHOOL: Updated and modified Driving Theory Test
+•  TXADMIN: Updated
 
 🟢 FIXES
 ✔️ INVENTORY IMAGES: Fixed FishNChips
@@ -22,4 +24,4 @@ Version 1.10
 ❌ STATION 24: To many issues with protecting the assest. Oof.
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  BOT: Fixed some bot issues
