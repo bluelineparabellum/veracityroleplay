@@ -5,7 +5,10 @@ Version 1.11
 
 🟡 CHANGED
 •  ADVANCED GARAGES: All job vehicles will now spawn with a random plate
-•  CHICKEN JOB: Modified chicken weight from 7 to 4 pounds, Unplucked chicken from 5 to 3 pounds, Plucked chicken from 4 to 2 pounds.
+•  CHICKEN JOB: Updated and modified chicken weight from 7 to 4 pounds, Unplucked chicken from 5 to 3 pounds, Plucked chicken from 4 to 2 pounds. Updated job outfits
+•  VEHICLES: Modified Vapid Speedo top speed
+•  CONSTRUCTION JOB: Updated job outfits
+•  ENVI MEDIC: Modified revive costs for successful and unsuccessful skill checks
 
 🟢 FIXES
 ✔️ --: --
