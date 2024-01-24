@@ -1,28 +1,35 @@
-Version 1.10
+Version 1.11
 
 🟣 ADDED
-•  MLO: New fire department in Sandy Shores!
-•  CUTSCENE: New cutscene for new players and they will be able to take a taxi from the airport!
+•  NOPIXEL SERVERSIDE VISUALS: Subscription based server side visuals! ENJOY!
+•  SAFARI APP: New Safari App on phone. Check out the VeraCity website in game!
+•  SHOPS: Added new shop keeper at Dons Country Store
+•  VANILLA UNICORN: Added barber in dressing room
+•  NEW ITEM: Added Empty Aluminum Can. Added to Consumables table and trash. Added to smelt menu
+•  JOBS: Added Blazing Ink to VeraCity Payroll sheet.
 
 🟡 CHANGED
-•  UWU CAT CAFE: Added crafting for coffee and latte. Fixed ingredients
-•  XSOUND: Updated
-•  INVENTORY: Modifing decaying items to not be stacked to fix fast decay. Modified not being able to stack fishing rods. Degrade was removed from fishing baits. Degrade was added to all fish that can be caught.
-•  LB PHONE: Updated. Updated Phone Prop. Moved API keys to FiveManage
-•  VEHICLES: Modified speeds of ISSI and MULE vehicles
-•  ENVI DUMPSTERS: Updated and modified items and time checks
-•  ENVI MEDIC: Updated
-•  BUTCHER JOB: Modified prices and weights of all bi-products
-•  CIVILIAN RADIO: Added back keybinding for Talk Over Radio.
-•  DRIVING SCHOOL: Updated and modified Driving Theory Test
-•  TXADMIN: Updated
+•  ADVANCED GARAGES: All job vehicles will now spawn with a random plate
+•  CHICKEN JOB: Updated and modified chicken weight from 7 to 4 pounds, Unplucked chicken from 5 to 3 pounds, Plucked chicken from 4 to 2 pounds. Updated job outfits
+•  VEHICLES: Modified Vapid Speedo top speed
+•  CONSTRUCTION JOB: Updated job outfits
+•  ENVI MEDIC: Modified revive costs for successful and unsuccessful skill checks
+•  D3MBA-LIB: Updated
+•  D3MBA Butcher Job: Modified selling input menu. Added labels for progress bars. Increased Sell point blip size
+•  M-INSURANCE: Updated. Increased target distance. Modified blip color
+•  SMART FIRES: Updated
+•  RD CITATIONS: Updated
+•  THROWBAG: Updated
+•  WOOSH PD: Modified
+•  VMS HUD: Modified linear and circle speedometer huds. Modified seatbelt image corresponding with colors. Increased seatbelt alarm sound. Increased seltbelt manipulation sound.
+•  FOOD: Modified bread to have degrade/decay. Modified Purrito degrade/decay and unique
+•  INVENTORY: Made lighter unique.
+•  MINING: Made goldpan degrade and decay
+•  DIVING: Increased crate blip size
+•  BLAZING INK: Modified job roles/titles and pay
+•  METAL DETECTING: Updated. Patch notes listed in announcement.
 
 🟢 FIXES
-✔️ INVENTORY IMAGES: Fixed FishNChips
-
-🔴 REMOVED
-❌ STATION 24: To many issues with protecting the assest. Oof.
-
-🔵 DISCORDIA/WEBSITE
-•  BOT: Fixed some bot issues
-•  1OF1 TRANSFERS: Ability to transfer 1 of 1s accessible by the website. You must still start a ticket!
+✔️ INVENTORY IMAGES: Fixed Illegal Fish item text and image
+✔️ INVENTORY (VEHICLES): Fixed Sandking XL trunk space (was missing a 0) o_O
+✔️ BOATING SCHOOL: Fixed boating school questions
