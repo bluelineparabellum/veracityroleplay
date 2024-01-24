@@ -10,16 +10,19 @@ Version 1.11
 •  CONSTRUCTION JOB: Updated job outfits
 •  ENVI MEDIC: Modified revive costs for successful and unsuccessful skill checks
 •  D3MBA-LIB: Updated
-•  D3MBA Butcher Job: Modified selling input menu
+•  D3MBA Butcher Job: Modified selling input menu. Added labels for progress bars
 •  M-INSURANCE: Updated
 •  SMART FIRES: Updated
 •  RD CITATIONS: Updated
 •  THROWBAG: Updated
 •  WOOSH PD: Modified
-•  VMS HUD: Modified and increased seatbelt alarm sound
+•  VMS HUD: Modified linear and circle speedometer huds. Modified seatbelt image corresponding with colors. Increased seatbelt alarm sound. Increased seltbelt manipulation sound.
+•  FISHING: Modified to make gold fish bait useable
+•  FOOD: Modified bread to have degrade/decay
 
 🟢 FIXES
-✔️ --: --
+✔️ INVENTORY IMAGES: Fixed Illegal Fish item text and image
+✔️ INVENTORY: Fixed Sandking XL trunk space (was missing a 0) o_O
 
 🔴 REMOVED
 ❌ --: --
