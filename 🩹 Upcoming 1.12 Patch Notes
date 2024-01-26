@@ -2,7 +2,7 @@ Version 1.12
 
 🟣 ADDED
 •  PAINTBALL: You have been waiting for it! Paintball is officially in the city!
-•  --: --
+•  EASY ALLOWLIST: Officially added "No Place Like Home" roles with priority queue. Added Staff Admins to priority queue.
 
 🟡 CHANGED
 •  DRIVING SCHOOL: Modified vehicles to have STUDENT plates. Blacklisted plates on saving vehicle locations.
@@ -12,13 +12,14 @@ Version 1.12
 •  UWU CAT CAFE: Restructured foods and ingredients + images
 •  FOOD: Modified all coffees having 4 hours of degrade. Modified current fruits with degrade and decay
 •  LB PHONE: Added Dynasty 8 Reality to Services App
+•  VEHICLE KEYS: Updated
 
 🟢 FIXES
 ✔️ --: --
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ STEAM REQUIREMENT: Removed steam requirement. Use FiveM Settings in game and we recommend setting your name to your discord username!
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
