@@ -2,9 +2,13 @@ Version 1.14
 
 🟣 ADDED
 •  WEAPON FILE: Added a weapon file capable of scratching out serial numbers
+•  BUSINESS VEHICLE: Added a new vehicle for Outlaw Performance
+•  CRIMINAL ACTIVITY: Added a new criminal activity
 
 🟡 CHANGED
-•  --: --
+•  MDT: Reformatted for easier viewing of time logs in Discordia
+•  VEHICLES: Updated CD Trackbeast, Restomod Zilla, and Beast Wagon
+•  FUEL: Modified fuel consumption
 
 🟢 FIXES
 ✔️ --: --
