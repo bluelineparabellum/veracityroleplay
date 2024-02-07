@@ -4,11 +4,15 @@ Version 1.14
 •  WEAPON FILE: Added a weapon file capable of scratching out serial numbers
 •  BUSINESS VEHICLE: Added a new vehicle for Outlaw Performance
 •  CRIMINAL ACTIVITY: Added a new criminal activity
+•  NEW UNDISCOVERED LOCATION: Added new blip
 
 🟡 CHANGED
 •  MDT: Reformatted for easier viewing of time logs in Discordia
 •  VEHICLES: Updated CD Trackbeast, Restomod Zilla, and Beast Wagon
 •  FUEL: Modified fuel consumption
+•  MECHANIC: Modified damage status %s
+•  RECYCLING: Increased entry price and modified give tables
+•  BUSINESSES: Staying at 15 minute intervals. Modified pay rates for businesses who entered a buisness ticket.
 
 🟢 FIXES
 ✔️ --: --
@@ -17,4 +21,4 @@ Version 1.14
 ❌ --: --
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  18+ SERVER: Removed explorer program. You must be 18+ to play on VeraCity. Removed Article II from Rule 1.0
