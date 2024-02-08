@@ -5,6 +5,7 @@ Version 1.14
 •  BUSINESS VEHICLE: Added a new vehicle for Outlaw Performance
 •  CRIMINAL ACTIVITY: Added a new criminal activity
 •  NEW UNDISCOVERED LOCATION: Added new blip
+•  1OF1 VEHICLES: Added 204sRestomodOBS
 
 🟡 CHANGED
 •  MDT: Reformatted for easier viewing of time logs in Discordia
@@ -13,12 +14,22 @@ Version 1.14
 •  MECHANIC: Modified damage status %s
 •  RECYCLING: Increased entry price and modified give tables
 •  BUSINESSES: Staying at 15 minute intervals. Modified pay rates for businesses who entered a buisness ticket.
+•  MINING: Added additional stone washing location. Modified wash give random chance to 3 items.
+•  HOUSING: Updated to V3
+•  OX_TARGET: Updated
+•  OX_LIB: Updated
+•  OXMYSQL: Updated
+•  WASABI BRIDGE: Updated
+•  WASABI POLICE: Updated
+•  WASABI AMBULANCE: Updated
+•  CLOTHING: Updated xmas pack
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ VEHICLES: Removed Templar, Removed VANZSTRX
 
 🔵 DISCORDIA/WEBSITE
 •  18+ SERVER: Removed explorer program. You must be 18+ to play on VeraCity. Removed Article II from Rule 1.0
+•  CITY EVENTS: Removed city announcements. Removed wanted jobs. Updated Gitbook with information on City Events. Please familarize yourself with this if you plan to host events!
