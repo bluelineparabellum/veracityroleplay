@@ -6,6 +6,7 @@ Version 1.14
 •  CRIMINAL ACTIVITY: Added a new criminal activity
 •  NEW UNDISCOVERED LOCATION: Added new blip
 •  1OF1 VEHICLES: Added 204sRestomodOBS
+•  BUSINESS VEHICLES: Added Outlaw Performance Service Van
 
 🟡 CHANGED
 •  MDT: Reformatted for easier viewing of time logs in Discordia
@@ -15,14 +16,16 @@ Version 1.14
 •  RECYCLING: Increased entry price and modified give tables
 •  BUSINESSES: Staying at 15 minute intervals. Modified pay rates for businesses who entered a buisness ticket.
 •  MINING: Added additional stone washing location. Modified wash give random chance to 3 items.
-•  HOUSING: Updated to V3
+•  HOUSING: Updated to V3. Updated for fix
 •  OX_TARGET: Updated
 •  OX_LIB: Updated
 •  OXMYSQL: Updated
 •  WASABI BRIDGE: Updated
 •  WASABI POLICE: Updated
 •  WASABI AMBULANCE: Updated
-•  CLOTHING: Updated xmas pack. Updated female clothing. Added male texture pack for incoming patch Friday
+•  FOOD: Vanilla Unicorn Food is now updated with decay/degrade
+•  GARAGES: Added new garage in La Puerta
+•  PAINTBALL: You now don't acquire stress when playing paintball
 
 🟢 FIXES
 ✔️ --: --
