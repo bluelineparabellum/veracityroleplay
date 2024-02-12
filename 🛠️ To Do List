@@ -1,6 +1,7 @@
 ## START OF TO DO LIST
 
 🟣 TO DO
+- OPTIMIZE RESTO MOD ZILLA
 - VANZ TRX WINDOW MODIFY
 - SOUND FOR DRILL // if Config.DrillSound then PlaySoundFromEntity(soundId, "Drill", DrillObject, "DLC_HEIST_FLEECA_SOUNDSET", 1, 0) end
 - UPDATE FISHING
