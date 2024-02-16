@@ -16,7 +16,7 @@ Version 1.14
 •  FUEL: Modified fuel consumption
 •  MECHANIC: Modified damage status %s
 •  RECYCLING: Increased entry price and modified give tables
-•  BUSINESSES: Staying at 15 minute intervals. Modified pay rates for businesses who entered a buisness ticket.
+•  BUSINESSES: Staying at 15 minute intervals. Modified pay rates for businesses who entered a business ticket.
 •  MINING: Added additional stone washing location. Modified wash give random chance to 3 items.
 •  HOUSING: Updated to V3. Updated for fix
 •  OX_TARGET: Updated
