@@ -5,12 +5,14 @@ Version 1.14
 •  BUSINESS VEHICLE: Added a new vehicle for Outlaw Performance
 •  CRIMINAL ACTIVITY: Added a new criminal activity
 •  NEW UNDISCOVERED LOCATION: Added new blip
-•  1OF1 VEHICLES: Added 204sRestomodOBS
+•  1OF1 VEHICLES: Added 204sRestomodOBS. Added 204sHurricane
 •  BUSINESS VEHICLES: Added Outlaw Performance Service Van
+•  SANDY SHORES HOSPITAL: Added Sandy Shores Hospital!
+•  OX_DOORLOCK: Added new door locks!
 
 🟡 CHANGED
 •  MDT: Reformatted for easier viewing of time logs in Discordia
-•  VEHICLES: Updated CD Trackbeast, Restomod Zilla, and Beast Wagon
+•  VEHICLES: Updated CD Trackbeast, Restomod Zilla, and Beast Wagon. Modified handling of Beast Wagon. Modified handling of 204sEscapade
 •  FUEL: Modified fuel consumption
 •  MECHANIC: Modified damage status %s
 •  RECYCLING: Increased entry price and modified give tables
@@ -33,7 +35,9 @@ Version 1.14
 
 🔴 REMOVED
 ❌ VEHICLES: Removed Templar, Removed VANZSTRX
+❌ CD_DOORLOCK: Removed cd_doorlocks
 
 🔵 DISCORDIA/WEBSITE
 •  18+ SERVER: Removed explorer program. You must be 18+ to play on VeraCity. Removed Article II from Rule 1.0
 •  CITY EVENTS: Removed city announcements. Removed wanted jobs. Updated Gitbook with information on City Events. Please familarize yourself with this if you plan to host events!
+•  OOC: Removed ooc media and now integrated with off-topic
