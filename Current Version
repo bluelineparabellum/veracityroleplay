@@ -1,37 +1,40 @@
-Version 1.13
+Version 1.14
 
 🟣 ADDED
-•  TRANSFERS: You can now transfer vehicles via contract item. 1of1s are not allowed to be transferred
-•  1OF1: Added Restomod Zilla. Added Breakout Custom
-•  GANGS: Modified a task to add notoriety
-•  PAWNSHOP: Added Carbon Fiber for buying and selling in shop
-•  NGD JOBDUTY: Added discord webhooks for employees clocking in. (Still adding and in testing)
-•  MLO: Added new Sandy Shores Hospital
+•  WEAPON FILE: Added a weapon file capable of scratching out serial numbers
+•  BUSINESS VEHICLE: Added a new vehicle for Outlaw Performance
+•  CRIMINAL ACTIVITY: Added a new criminal activity
+•  NEW UNDISCOVERED LOCATION: Added new blip
+•  1OF1 VEHICLES: Added 204sRestomodOBS. Added 204sHurricane
+•  BUSINESS VEHICLES: Added Outlaw Performance Service Van
+•  SANDY SHORES HOSPITAL: Added Sandy Shores Hospital!
+•  OX_DOORLOCK: Added new door locks!
 
 🟡 CHANGED
-•  DIVING: Modified items and prices. Added variety to items found in crates
-•  TUNING SYSTEM: Removed ability for tuners to repair for free. Thats for the mechanics, and not free :]
-•  MINING: Successfully made drill and laser cut more rocks (6 max). Modified wash and goldpan loot tables. Modified cut outputs for materials. Steel requirements changed from 2 iron ore to 2 iron bars. Glass amount per 4 bottles lowered to 1. Lowered requirements for copper and iron
-•  BURGERSHOT: Modified some foods to 3 hours
-•  RECYCLING: Modified selling prices of lower tier items at recycling center
-•  CHARACTERS: Updated and modified eye color textures
-•  INVENTORY: Made iron ore weigh less
-•  INVENTORY IMAGES: Updated cocaine related items
-•  DEALERSHIPS: Future car purchases: Payments are every 12 hours. If not paid within 3 hours of due time vehicle will be repossessed.
-•  MULTICHARACTER: Updated. 5 Character Max are now handled by discord role. You must purchase the role through our discord shop
-•  CHARACTER CREATION: Moved the character creation spot a few feet back for more lighting
-
-🟢 FIXES
-✔️ --: --
+•  MDT: Reformatted for easier viewing of time logs in Discordia
+•  VEHICLES: Updated CD Trackbeast, Restomod Zilla, and Beast Wagon. Modified handling of Beast Wagon. Modified handling of 204sEscapade
+•  FUEL: Modified fuel consumption
+•  MECHANIC: Modified damage status %s
+•  RECYCLING: Increased entry price and modified give tables
+•  BUSINESSES: Staying at 15 minute intervals. Modified pay rates for businesses who entered a buisness ticket.
+•  MINING: Added additional stone washing location. Modified wash give random chance to 3 items.
+•  HOUSING: Updated to V3. Updated for fix
+•  OX_TARGET: Updated
+•  OX_LIB: Updated
+•  OXMYSQL: Updated
+•  WASABI BRIDGE: Updated
+•  WASABI POLICE: Updated
+•  WASABI AMBULANCE: Updated
+•  FOOD: Vanilla Unicorn Food is now updated with decay/degrade
+•  GARAGES: Added new garage in La Puerta
+•  PAINTBALL: You now don't acquire stress when playing paintball
+•  POLICE VEHICLE MEGAPHONE: Key changed to Right ALT. Current players may need to change keybinds for this to be correct on their system.
 
 🔴 REMOVED
-❌ ITEMS: Removed extra glass bottle and can items.
-❌ PAWNSHOP: Removed scrap metal from being bought and sold at pawnshop
-❌ 1OF1 VEHICLES: Removed Jaxs old 1of1 due to tuner issues. Rest in piece JaxBagger, you've been terminated
+❌ VEHICLES: Removed Templar, Removed VANZSTRX
+❌ CD_DOORLOCK: Removed cd_doorlocks
 
 🔵 DISCORDIA/WEBSITE
-•  EMOJIS: Added pepe_rigged emoji
-•  1OF1 TERMS AND CONDITIONS: Updated
-•  IN CITY TERMINOLOGY: Updated
-•  VERACITY STAFF BOOK: Removed staff channels involving in-city entities and placed them in the Staff Book
-•  INTEGRATION: Added gitbook to discord integration. Select Gitbook Notifications from role select if you would like to opt in updates
+•  18+ SERVER: Removed explorer program. You must be 18+ to play on VeraCity. Removed Article II from Rule 1.0
+•  CITY EVENTS: Removed city announcements. Removed wanted jobs. Updated Gitbook with information on City Events. Please familarize yourself with this if you plan to host events!
+•  OOC: Removed ooc media and now integrated with off-topic
