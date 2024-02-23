@@ -2,6 +2,7 @@ Version 1.16
 
 🟣 ADDED
 •  MLOS: Taco/Pizza MLO
+•  CS-WALKIETALKIE: Added new radio
 
 🟡 CHANGED
 •  HUD: Updated HUD
@@ -11,7 +12,8 @@ Version 1.16
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ MM-RADIO: Removed (this was old radio)
+❌ SCNP25: Removed (this was old government radio)
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
