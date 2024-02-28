@@ -1,19 +1,17 @@
-Version 1.16
+Version 1.17
 
 🟣 ADDED
-•  **MLOS**: Taco/Pizza MLO
-•  **CS-WALKIETALKIE**: Added new radio
+•  BCSO: Added new EUP & Liveries
+•  RADIO ANIMATIONS: Added new radio animations for LEO
+•  MLO: Added Bennys New MLO, Added new Cinema!
+•  GARAGE: Added Bennys Job Garage
+•  PLATES: Added Custom Plates
 
 🟡 CHANGED
-•  **HUD**: Updated HUD
-•  **HOUSING**: Updated. Modified storage slots and weights for furniture.
-•  **LBPHONE**: Updated
-•  **ADVANCEDGARAGES**: Updated. Changed transfer garage price from $1000 to $500
-•  **DEALERSHIPS**: Updated. Changed finance payment intervals from 12 to 24
+•  VISUALS: Removed trash/clutter from streets and sidewalks
+•  EASTERN SIDE MOTEL MLO: Changed to unfurnished version
+•  HOUSING: Updated
+•  ADVANCED GARAGES: Updated
 
-🟢 FIXES
-✔️ **LOTTERY SYSTEM**: Lottery System is back online!
-
-🔴 REMOVED
-❌ **MM-RADIO**: Removed (this was old radio)
-❌ **SCNP25**: Removed (this was old government radio)
+🔵 DISCORDIA/WEBSITE
+•  DISCOUNTS: Nitro Boost discount increased from 5% to 10% for in shop purchases
