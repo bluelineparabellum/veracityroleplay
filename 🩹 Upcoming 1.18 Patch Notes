@@ -2,17 +2,31 @@ Version 1.18
 
 🟣 ADDED
 •  MLO: Vespucci Ambulance Added
+•  MDT: Addew new MDTS for Law Enforcement and EMS
+•  JOB APPLICATIONS: New job applications. Will add more when we receive more businesses and questions associated.
+•  NEW CAR RADIO: New car radio. You will need to re-buy one to have the new style radio
 
 🟡 CHANGED
 •  CARRY: Minimized Carry Distance. Added restricted carry zones
 •  FISHING: Updated to V2. Changed names/item registry for fishing. Added tons more salt water fish. (Work in progress)
-•  ADVANCED GARAGES: Changed BCSO system for personal job vehicles
+•  ADVANCED GARAGES: Changed BCSO system for personal job vehicles. Changed SAEMS system for job vehicles
+•  DUMPSTERS: Updated. You can now hide in them!
+•  SAEMS: Changed ambulance livery
 
 🟢 FIXES
-✔️ --: --
+✔️ DEALERSHIPS: Fixed vehicle to remove when being sold.
 
 🔴 REMOVED
-❌ --: --
+❌ MDT: Removed old MDT
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
+
+NEW FRAMEWORK FOR NEW WORK IN PROGRESS SERVER? - QBOX UPDATES (WIP)
+HANDSUP - Handsup has been completely changed. It can now be performed by holding X key
+GUNRACKS - Gun racks have now been added. You can store your firearms!
+PLACEABLE MICROPHONES - New system where an admin can add a microphone zone/prop
+TARGET - Redesign of ox_target
+MASKS - Masks are now items and are obtained from the Mask store
+WALKSTYLES - Walkstyles are saved for EACH CHARACTER. Select your walkstyle using /walks
+WEAPON CARRY - Now using Renewed-Weaponscarry
