@@ -1,16 +1,22 @@
 Version 1.19
 
 🟣 ADDED
-•  --: --
+•  OXLIB RADIAL MENU: Added new radial menu. Default key is "Z". I recommend changing to "F1"
+	- Added Carry, Documents, Sit, Walk Styles, Financed Vehicles, Manage Homes, Furnish, Clothing, and Scenes
 
 🟡 CHANGED
-•  --: --
+•  OXLIB: Updated
+•  PLACEABLE MICROPHONES: Added zones/microphones to Vanilla Unicorn, Courthouse, and BCSO
+•  VESPUCCI AMBULANCE MLO: Changed exterior sign
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ --: --
+❌ QB RADIAL MENU: Removed
+❌ NOTIFICATIONS: Removed vehicle notification when pressing "G"
+❌ AP-ADDONJOB: Removed
+❌ AP-DOCUMENTS: Removed
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
