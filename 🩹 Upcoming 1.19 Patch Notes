@@ -2,12 +2,19 @@ Version 1.19
 
 🟣 ADDED
 •  OXLIB RADIAL MENU: Added new radial menu. Default key is "Z". I recommend changing to "F1"
-	- Added Carry, Documents, Sit, Walk Styles, Financed Vehicles, Manage Homes, Furnish, Clothing, and Scenes
+	- Added Carry, Documents, Sit, Walk Styles, Financed Vehicles, Manage Homes, Furnish, Modify Furniture, Clothing, and Scenes
 
 🟡 CHANGED
 •  OXLIB: Updated
 •  PLACEABLE MICROPHONES: Added zones/microphones to Vanilla Unicorn, Courthouse, and BCSO
-•  VESPUCCI AMBULANCE MLO: Changed exterior sign, wall sign, and monitor screen images
+•  VESPUCCI AMBULANCE MLO: New LOGO. Changed exterior sign, wall sign, and monitor screen images
+•  VANILLA UNICORN MLO: Updated
+•  LBPHONE: Added modification for time to sync after exiting a mlo/ipl 
+•  HOUSING: Housing Updated. Added modification for time to sync after exiting a mlo/ipl
+•  RENEWED WEATHER: Reverted back to mostly default settings for weather
+•  LIBRARIES(LIBS): Updated Wasabi Bridge
+•  APPERANCE: Changed illenium-apperance menu appearance
+•  FREELANCE JOBS: Added new Newspaper Delivery job
 
 🟢 FIXES
 ✔️ --: --
