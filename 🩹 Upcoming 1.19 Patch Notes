@@ -1,33 +1,16 @@
-Version 1.19
+Version 1.20
 
 🟣 ADDED
-•  OXLIB RADIAL MENU: Added new radial menu. Default key is "Z". I recommend changing to "F1"
-	- Added Carry, Documents, Sit, Walk Styles, Financed Vehicles, Manage Homes, Furnish, Modify Furniture, Clothing, and Scenes
+•  --: --
 
 🟡 CHANGED
-•  OXLIB: Updated
-•  PLACEABLE MICROPHONES: Added zones/microphones to Vanilla Unicorn, Courthouse, and BCSO
-•  VESPUCCI AMBULANCE MLO: New LOGO. Changed exterior sign, wall sign, and monitor screen images
-•  VANILLA UNICORN MLO: Updated
-•  LBPHONE: Added modification for time to sync after exiting a mlo/ipl 
-•  HOUSING: Housing Updated. Added modification for time to sync after exiting a mlo/ipl
-•  RENEWED WEATHER: Reverted back to mostly default settings for weather
-•  LIBRARIES(LIBS): Updated Wasabi Bridge
-•  APPERANCE: Changed illenium-apperance menu appearance
-•  FREELANCE JOBS: Added new Newspaper Delivery job
-•  NOGRIP: Falling chance due to jumping reduced to 25%
-•  CHICKEN JOB: Updated
+•  --: --
 
 🟢 FIXES
 ✔️ --: --
 
 🔴 REMOVED
-❌ QB RADIAL MENU: Removed
-❌ NOTIFICATIONS: Removed vehicle notification when pressing "G"
-❌ AP-ADDONJOB: Removed
-❌ AP-DOCUMENTS: Removed
-❌ TOXIC SCRIPTS: Removed spike strips
-❌ FLIGHT-ANIMALS: Removed
+❌ --: --
 
 🔵 DISCORDIA/WEBSITE
 •  --: --
