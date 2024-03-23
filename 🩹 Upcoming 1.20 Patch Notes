@@ -4,7 +4,9 @@ Version 1.20
 •  --: --
 
 🟡 CHANGED
-•  DIVING: Updated
+•  DIVING: Updated. Changed return rental from $500 to $750
+•  OFFROADING: Blacklisted zones (offroading doesn't apply) for Eastern Motel and Scuba Steves
+•  CAR RADIO: Working correctly and now removes radio install kit after install radio. Radio install kit will remain if just removing a radio.
 
 🟢 FIXES
 ✔️ --: --
@@ -13,7 +15,7 @@ Version 1.20
 ❌ --: --
 
 🔵 DISCORDIA/WEBSITE
-•  --: --
+•  WHITELIST PANEL: Seperated Whitelist panel for easy finding
 
 🚧 NEW FRAMEWORK FOR NEW WORK IN PROGRESS SERVER? - QBOX UPDATES (WIP) 🚧
 •  --: --
