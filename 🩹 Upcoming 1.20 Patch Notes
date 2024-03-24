@@ -11,6 +11,7 @@ Version 1.20
 •  SCRAPYARD: Higher chance for scrap metal to be found
 •  HEROIN: Added and changed spawn areas for poppy plant fields
 •  COCAINE: Added and changed spawn areas for coca plant fields
+•  BUTCHER JOB: Changed max quantity per item for delivery orders
 
 🟢 FIXES
 ✔️ --: --
@@ -19,7 +20,7 @@ Version 1.20
 ❌ --: --
 
 🔵 DISCORDIA/WEBSITE
-•  WHITELIST PANEL: Seperated Whitelist panel for easy access :]
+•  WHITELIST PANEL: Created a seperate whitelist channel for newcomers. Seperated Whitelist panel and ticket panel for easy and viewing access :]
 
 🚧 NEW FRAMEWORK FOR NEW WORK IN PROGRESS SERVER? - QBOX UPDATES (WIP) 🚧
 •  --: --
