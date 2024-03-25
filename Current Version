@@ -1,35 +1,23 @@
-Version 1.19
+Version 1.20
 
 🟣 ADDED
-•  OXLIB RADIAL MENU: Added new radial menu. Default key is "Z". I recommend changing to "F1"
-	- Added Carry, Documents, Sit, Walk Styles, Financed Vehicles, Manage Homes, Furnish, Modify Furniture, Clothing, and Scenes
-•  CLOTHING: Added new clothing for SAEMS
-•  LOTTERY: Added new lottery machine location.
-•  1OF1VEHICLES: Added new 204s No Lackin
+•  MAP4ALL MLOS: Premium Deluxe Motorsport and Park Ranger (Known as BCSO Game Warden)
 
 🟡 CHANGED
-•  OXLIB: Updated
-•  PLACEABLE MICROPHONES: Added zones/microphones to Vanilla Unicorn, Courthouse, and BCSO
-•  VESPUCCI AMBULANCE MLO: New LOGO. Changed exterior sign, wall sign, and monitor screen images
-•  VANILLA UNICORN MLO: Updated
-•  LBPHONE: Added modification for time to sync after exiting a mlo/ipl 
-•  HOUSING: Housing Updated. Added modification for time to sync after exiting a mlo/ipl
-•  RENEWED WEATHER: Reverted back to mostly default settings for weather
-•  LIBRARIES(LIBS): Updated Wasabi Bridge
-•  APPERANCE: Changed illenium-apperance menu appearance
-•  FREELANCE JOBS: Added new Newspaper Delivery job
-•  NOGRIP: Falling chance due to jumping reduced to 25%
-•  CHICKEN JOB: Updated
-•  LOTTERY: Changed VeraCity scratch off wining chances ($5, $10, $25, $50, $75, $100, $150, $500, $1000, $3000, $5000)
-•  PAINTBALL: Paintball updated to version 3.0!
+•  DIVING: Updated. Changed return rental from $500 to $750
+•  OFFROADING: Blacklisted zones (offroading doesn't apply) for Eastern Motel and Scuba Steves
+•  CAR RADIO: Working correctly and now removes radio install kit after install radio. Radio install kit will remain if just removing a radio.
+•  CDN-FUEL: Added two watercraft refuel stations: Scuba Steves and Submarine Lane in Paleto
+•  SCRAPYARD: Higher chance for scrap metal to be found
+•  HEROIN: Added and changed spawn areas for poppy plant fields
+•  COCAINE: Added and changed spawn areas for coca plant fields
+•  BUTCHER JOB: Changed max quantity per item for delivery orders
 
 🟢 FIXES
-✔️ VEHICLE KEYS: Fixed being able to lockpick vehicles
+✔️ DOCUMENTS: Documents are now working in radial menu
 
 🔴 REMOVED
-❌ QB RADIAL MENU: Removed
-❌ NOTIFICATIONS: Removed vehicle notification when pressing "G"
-❌ AP-ADDONJOB: Removed
-❌ AP-DOCUMENTS: Removed
-❌ TOXIC SCRIPTS: Removed spike strips
-❌ FLIGHT-ANIMALS: Removed
+❌ GABZ MLO SUBSCRIPTION: Removed. We are keeping CatCafe, Harmony, Pearls, Pillbox (For Now), and Townhall
+
+🔵 DISCORDIA/WEBSITE
+•  WHITELIST PANEL: Created a seperate whitelist channel for newcomers. Seperated Whitelist panel and ticket panel for easy and viewing access :]
