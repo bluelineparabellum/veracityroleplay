@@ -1,24 +1,11 @@
-Version 1.20
+Version 1.21
 
 🟣 ADDED
-•  MAP4ALL MLOS: Premium Deluxe Motorsport and Park Ranger (Known as BCSO Game Warden)
-•  HOUSING: Added Pool Cue Racks in furniture menu (Suggestion)
+•  EASTER: Easter Event added!
 
 🟡 CHANGED
-•  DIVING: Updated. Changed return rental from $500 to $750
-•  OFFROADING: Blacklisted zones (offroading doesn't apply) for Eastern Motel and Scuba Steves
-•  CAR RADIO: Working correctly and now removes radio install kit after install radio. Radio install kit will remain if just removing a radio.
-•  CDN-FUEL: Added two watercraft refuel stations: Scuba Steves and Submarine Lane in Paleto
-•  SCRAPYARD: Higher chance for scrap metal to be found
-•  HEROIN: Added and changed spawn areas for poppy plant fields
-•  COCAINE: Added and changed spawn areas for coca plant fields
-•  BUTCHER JOB: Changed max quantity per item for delivery orders
-
-🟢 FIXES
-✔️ DOCUMENTS: Documents are now working in radial menu
-
-🔴 REMOVED
-❌ GABZ MLO SUBSCRIPTION: Removed. We are keeping CatCafe, Harmony, Pearls, Pillbox (For Now), and Townhall
-
-🔵 DISCORDIA/WEBSITE
-•  WHITELIST PANEL: Created a seperate whitelist channel for newcomers. Seperated Whitelist panel and ticket panel for easy and viewing access :]
+•  DIVING: Added notification and sound when opening crate
+•  CASINO: Updated
+•  PHONE: Updated. Personally added 9 more notification sounds for the phone
+•  NOTIFICATION: Changed notification sound
+•  WALKIE TALKIE: Updated
