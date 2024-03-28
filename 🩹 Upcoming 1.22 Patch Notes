@@ -2,9 +2,13 @@ Version 1.22
 
 🟣 ADDED
 •  NEW CHARACTERS: Now start with a phone!
+•  BLIPS: Added SAEMS and SAFD locations as blips
+•  PHONE: Added San Andreas Emergency Medical Services to Services App
 
 🟡 CHANGED
 •  BUTCHER JOB: Modified a few chicken item weights (decreased). Added one working sound effect and notifications to chicken process
+•  VERACITY SCRATCHOFF: Changed probability of winning, added more symbols, modified prizes
+•  SAEMS: Made stretcher have full working functionality with c3fambo
 
 🟢 FIXES
 ✔️ --: --
